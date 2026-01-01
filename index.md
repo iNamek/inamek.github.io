@@ -101,7 +101,7 @@ Postdoc in Mari Lundberg’s research group **Back in Motion**
 
 ## Docent-level competence {#docent}
 
-Docent, 2024-04-01  
+Docent, 2024-08-28  
 
 ---
 
@@ -143,6 +143,11 @@ Parental leave, approximately 30%
 ---
 
 ## Scientific publications {#publications}
+
+### Under Review
+Differences in nutrient intake, gastrointestinal symptoms and fatigue: A cross sectional study comparing patients with persistent fatigue or IBS to the general population. Liljebo T, Norlin A-K, Kemani MK, Jonsjö M, Schmidt PT, Lindfors PJ, Störsrud, Andreasson A.
+
+Validity and reliability of remote physical capacity testing via video call in patients with lumbar spinal stenosis scheduled for surgery. Hanafi, R, Ernest, C, Karlsson, E, Kemani, MK, Nijs, J, Lundberg, M, Jakobsson, M.
 
 ### Bibliometric parameters (2023-11-02)
 - Total number of citations: 697 (571 citing articles)  
