@@ -141,17 +141,17 @@ Parental leave, approximately 30%
 
 ### 2.2 List of original works
 
-1. #Kemani, M.K., Hanafi, R., Brisby, H., Lotzke, H., Lundberg, M. (2023). Long-term follow-up of a Person-Centered Prehabilitation Program Based on Cognitive-Behavioral Physical Therapy for Patients Scheduled for Lumbar Fusion Surgery. *Physical Therapy & Rehabilitation Journal.
+1. Kemani, M.K., Hanafi, R., Brisby, H., Lotzke, H., Lundberg, M. (2023). Long-term follow-up of a Person-Centered Prehabilitation Program Based on Cognitive-Behavioral Physical Therapy for Patients Scheduled for Lumbar Fusion Surgery. *Physical Therapy & Rehabilitation Journal.
 
-2. #Wallbing, U., Nilsson, S., Lundberg, M., Wigert, H., & Kemani, M. K. (2023). Help overcoming pain early, a brief person-centred intervention for adolescents with chronic pain in a school setting, may improve symptoms of insomnia. *Frontiers in Pain Research, doi:10.3389/fpain.2023.1264355. PMID: N/A. <https://pubmed.ncbi.nlm.nih.gov/38034879/>
+2. Wallbing, U., Nilsson, S., Lundberg, M., Wigert, H., & Kemani, M. K. (2023). Help overcoming pain early, a brief person-centred intervention for adolescents with chronic pain in a school setting, may improve symptoms of insomnia. *Frontiers in Pain Research, doi:10.3389/fpain.2023.1264355. PMID: N/A. <https://pubmed.ncbi.nlm.nih.gov/38034879/>
 
 3. Karayannis, N. V., Sturgeon, J. A., Kemani, M. K., Mackey, S. C., Greco, C. M., Wicksell, R. K., & McCracken, L. M. (2023). Pain acceptance and psychological inflexibility predict pain interference outcomes for persons with chronic pain receiving pain psychology. *Scandinavian Journal of Pain, 23(3), 464–475.* doi:10.1515/sjpain-2022-0107. PMID: 36745187.<https://pubmed.ncbi.nlm.nih.gov/36745187/>
 
 4. Karshikoff, B., Åström, J., Holmström, L., Lekander, M., Kemani, M. K., & Wicksell, R. K (2022). Baseline Pro-Inflammatory Cytokine Levels Moderate Psychological Inflexibility in Behavioral Treatment for Chronic Pain. *Journal of Clinical Medicine, 11(9).* doi:10.3390/jcm11092285. PMID: 35566411. <https://pubmed.ncbi.nlm.nih.gov/35566411/>
 
-5. #Åström, J., Holmström, L., Karshikoff, B., Andreasson, A., & Kemani, M. K. (2022). Evaluating the construct validity and internal consistency of the Sickness Questionnaire in a Swedish sample of adults with longstanding pain. *Scandinavian Journal of Pain, 22(1), 88–96.* doi:10.1515/sjpain-2021-0070. PMID: 34931508. <https://pubmed.ncbi.nlm.nih.gov/34931508/>
+5. Åström, J., Holmström, L., Karshikoff, B., Andreasson, A., & Kemani, M. K. (2022). Evaluating the construct validity and internal consistency of the Sickness Questionnaire in a Swedish sample of adults with longstanding pain. *Scandinavian Journal of Pain, 22(1), 88–96.* doi:10.1515/sjpain-2021-0070. PMID: 34931508. <https://pubmed.ncbi.nlm.nih.gov/34931508/>
 
-6. #Kemani, M. K., Hägg, O., Jakobsson, M., & Lundberg, M. (2020). Fear of Movement Is Related to Low Back Disability During a Two-Year Period in Patients Who Have Undergone Elective Lumbar Spine Surgery. *World Neurosurgery, 137, e416–e424.* doi:10.1016/j.wneu.2020.01.218. PMID: 32035206. <https://pubmed.ncbi.nlm.nih.gov/32035206/>
+6. Kemani, M. K., Hägg, O., Jakobsson, M., & Lundberg, M. (2020). Fear of Movement Is Related to Low Back Disability During a Two-Year Period in Patients Who Have Undergone Elective Lumbar Spine Surgery. *World Neurosurgery, 137, e416–e424.* doi:10.1016/j.wneu.2020.01.218. PMID: 32035206. <https://pubmed.ncbi.nlm.nih.gov/32035206/>
 
 7. Jonsjö, M. A., Åström, J., Jones, M. P., Karshikoff, B., Lodin, K., Holmström, L., Agréus, L., Wicksell, R. K., Axelsson, J., Lekander, M., Olsson, G. L., Kemani, M., & Andreasson, A. (2020). Patients with ME/CFS (Myalgic Encephalomyelitis/Chronic Fatigue Syndrome) and chronic pain report similar level of sickness behavior as individuals injected with bacterial endotoxin at peak inflammation. *Brain, Behavior, & Immunity – Health, 2.* doi:10.1016/j.bbih.2019.100028. PMID: N/A. <https://www.sciencedirect.com/science/article/pii/S2666354619300298>
 
@@ -161,9 +161,9 @@ Parental leave, approximately 30%
 
 10. Rickardsson, J., Zetterqvist, V., Kemani, M. K., Holmström, L., Andersson, E., & Wicksell, R. K. (2019). Assessing values – Psychometric properties of the Swedish version of the Valuing Questionnaire in adults with chronic pain. *Journal of Contextual Behavioral Science, 14, 40–49.* doi:10.1016/j.jcbs.2019.08.009. PMID: N/A.<https://www.sciencedirect.com/science/article/abs/pii/S2212144718303107>
 
-11. #Kemani, M. K., Grimby-Ekman, A., Lundgren, J., Sullivan, M., & Lundberg, M. (2019). Factor structure and internal consistency of a Swedish version of the Pain Catastrophizing Scale. *Acta Anaesthesiologica Scandinavica, 63(2), 259–266.* doi:10.1111/aas.13246. PMID: 30132784. <https://pubmed.ncbi.nlm.nih.gov/30132784/>
-
-12. #Kanstrup, M., Jordan, A., & Kemani, M. K. (2019). Adolescent and Parent Experiences of Acceptance and Commitment Therapy for Pediatric Chronic Pain: An Interpretative Phenomenological Analysis. *Children – Basel, 6(9).* doi:10.3390/children6090101. PMID: 31500227.<https://pubmed.ncbi.nlm.nih.gov/31500227/>
+11. Kemani, M. K., Grimby-Ekman, A., Lundgren, J., Sullivan, M., & Lundberg, M. (2019). Factor structure and internal consistency of a Swedish version of the Pain Catastrophizing Scale. *Acta Anaesthesiologica Scandinavica, 63(2), 259–266.* doi:10.1111/aas.13246. PMID: 30132784. <https://pubmed.ncbi.nlm.nih.gov/30132784/>
+   
+12. Kanstrup, M., Jordan, A., & Kemani, M. K. (2019). Adolescent and Parent Experiences of Acceptance and Commitment Therapy for Pediatric Chronic Pain: An Interpretative Phenomenological Analysis. *Children – Basel, 6(9).* doi:10.3390/children6090101. PMID: 31500227.<https://pubmed.ncbi.nlm.nih.gov/31500227/>
 
 13. Holmberg, J., Kemani, M. K., Holmström, L., Öst, L. G., & Wicksell, R. K. (2019). Evaluating the psychometric characteristics of the Work-related Acceptance and Action Questionnaire (WAAQ) in a sample of healthcare professionals. *Journal of Contextual Behavioral Science, 14, 103–107.* doi:10.1016/j.jcbs.2019.08.010. PMID: N/A.<https://www.sciencedirect.com/science/article/abs/pii/S2212144718303168>
 
