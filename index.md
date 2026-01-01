@@ -146,9 +146,11 @@ Parental leave, approximately 30%
 ## Scientific publications {#publications}
 
 ### Under Review
-Differences in nutrient intake, gastrointestinal symptoms and fatigue: A cross sectional study comparing patients with persistent fatigue or IBS to the general population. Liljebo T, Norlin A-K, Kemani MK, Jonsjö M, Schmidt PT, Lindfors PJ, Störsrud, Andreasson A.
+1. Ernest C, Hanafi R, Brisby H, Fors A, Hedman H, Kemani M, Lundberg M, Nijs J, Zetterberg H, Karlsson E. Get Back, a person-centered digital program to promote physical activity among patients undergoing spinal stenosis surgery: A randomized feasibility study. 
 
-Validity and reliability of remote physical capacity testing via video call in patients with lumbar spinal stenosis scheduled for surgery. Hanafi, R, Ernest, C, Karlsson, E, Kemani, MK, Nijs, J, Lundberg, M, Jakobsson, M.
+2. Liljebo T, Norlin A-K, Kemani MK, Jonsjö M, Schmidt PT, Lindfors PJ, Störsrud, Andreasson A. Differences in nutrient intake, gastrointestinal symptoms and fatigue: A cross-sectional study comparing patients with persistent fatigue or IBS to the general population.
+
+3. Hanafi, R, Ernest, C, Karlsson, E, Kemani, MK, Nijs, J, Lundberg, M, Jakobsson, M. Validity and reliability of remote physical capacity testing via video call in patients with lumbar spinal stenosis scheduled for surgery. 
 
 ### Bibliometric parameters (2023-11-02)
 - Total number of citations: 697 (571 citing articles)  
