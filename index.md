@@ -1,5 +1,5 @@
 # Mike Kemani
-Licensed Psychologist, PhD, Docent (Associate Professor) 
+Licensed Psychologist, PhD, Docent (Associate Professor)  
 Stockholm, Sweden  
 
 **Work contact**  
@@ -8,7 +8,18 @@ Email: mike.kemani@regionstockholm.se; mike.kemani2@ki.se
 
 ---
 
-<nav>
+<style>
+  .sticky-nav {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ddd;
+    z-index: 1000;
+  }
+</style>
+
+<nav class="sticky-nav">
   <a href="#about">About</a> ·
   <a href="#personal-data">Personal data</a> ·
   <a href="#courses-degrees">Courses & degrees</a> ·
