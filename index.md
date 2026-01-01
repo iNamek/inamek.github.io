@@ -97,14 +97,13 @@ Docent, 2024-04-01
 ## Current position {#current-position}
 
 **2019–2025-02-28**  
-Section Manager, Section of Behavioral Medicine  
-Department of Medical Psychology  
-Theme Women’s Health and Allied Health Professionals  
-Karolinska University Hospital  
+Verksamhetsutvecklare, klinisk digitalisering/Operations developer, clinical digitalization, Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
 
 ---
 
 ## Prior positions {#prior-positions}
+**2019–2025**  
+Section Manager, Section of Behavioral Medicine, Department of Medical Psychology, Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
 
 **2018–2019**  
 Acting Manager, Functional Unit Behavioral Medicine, Karolinska University Hospital  
@@ -142,7 +141,7 @@ Parental leave, approximately 30%
 
 ### 2.2 List of original works
 
-1. #Kemani, M.K., Hanafi, R., Brisby, H., Lotzke, H., Lundberg, M. (2023). Long-term follow-up of a Person-Centered Prehabilitation Program Based on Cognitive-Behavioral Physical Therapy for Patients Scheduled for Lumbar Fusion Surgery. *Physical Therapy & Rehabilitation Journal.* Accepted manuscript (Bilaga 9. Accepterade manuskript).
+1. #Kemani, M.K., Hanafi, R., Brisby, H., Lotzke, H., Lundberg, M. (2023). Long-term follow-up of a Person-Centered Prehabilitation Program Based on Cognitive-Behavioral Physical Therapy for Patients Scheduled for Lumbar Fusion Surgery. *Physical Therapy & Rehabilitation Journal.
 
 2. #Wallbing, U., Nilsson, S., Lundberg, M., Wigert, H., & Kemani, M. K. (2023). Help overcoming pain early, a brief person-centred intervention for adolescents with chronic pain in a school setting, may improve symptoms of insomnia. *Frontiers in Pain Research, doi:10.3389/fpain.2023.1264355. PMID: N/A. <https://pubmed.ncbi.nlm.nih.gov/38034879/>
 
