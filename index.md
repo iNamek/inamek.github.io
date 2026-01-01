@@ -199,16 +199,16 @@ Parental leave, approximately 30%
 30. Masuda, A., Cohen, L. L., Wicksell, R. K., Kemani, M. K., & Johnson, A. (2011). A Case Study: Acceptance and Commitment Therapy for Pediatric Sickle Cell Disease. *Journal of Pediatric Psychology, 36(4), 398–408.* doi:10.1093/jpepsy/jsq118. PMID: 21325269. <https://pubmed.ncbi.nlm.nih.gov/21325269/>
 
 ### List of general articles and book chapters
-1. Karlsson, E., Hanafi, R., Brisby, H., Fors, A., Kemani, M., A, Hedman, H., Nijs, J., Lundberg, M. (2023). Get Back, a person-centred digital programme targeting physical activity for patients undergoing spinal stenosis surgery - A study protocol of a randomized feasibility study. Pilot and Feasibility Studies, 10(16). PMID: 10811854. https://doi.org/10.1186/s40814-023-01433-9
+1. Karlsson, E., Hanafi, R., Brisby, H., Fors, A., Kemani, M., A, Hedman, H., Nijs, J., Lundberg, M. (2023). Get Back, a person-centred digital programme targeting physical activity for patients undergoing spinal stenosis surgery - A study protocol of a randomized feasibility study. Pilot and Feasibility Studies, 10(16). PMID: 10811854. <https://doi.org/10.1186/s40814-023-01433-9>
 
-2. Rydwik, E., Anmyr, L., Regardt, M., McAllister, A., Zarenoe, R., Åkerman, E., Orrevall, Y., Bragesjö, M., Dahl, O., Kemani, M. K., Nordstrand, L., Ekman, U., Holmström, L., & Nygren-Bonnier, M. (2021). ReCOV: recovery and rehabilitation during and after COVID-19-a study protocol of a longitudinal observational study on patients, next of kin and health care staff. Bmc Sports Science Medicine and Rehabilitation, 13(1). doi:10.1186/s13102-021-00299-9. PMID: 34193260. https://pubmed.ncbi.nlm.nih.gov/34193260/
+2. Rydwik, E., Anmyr, L., Regardt, M., McAllister, A., Zarenoe, R., Åkerman, E., Orrevall, Y., Bragesjö, M., Dahl, O., Kemani, M. K., Nordstrand, L., Ekman, U., Holmström, L., & Nygren-Bonnier, M. (2021). ReCOV: recovery and rehabilitation during and after COVID-19-a study protocol of a longitudinal observational study on patients, next of kin and health care staff. Bmc Sports Science Medicine and Rehabilitation, 13(1). doi:10.1186/s13102-021-00299-9. PMID: 34193260. <https://pubmed.ncbi.nlm.nih.gov/34193260/>
 
 3. Danielson, M., Kemani, M. (2021). When Saga Norén meets neurotypicality: A liminal encounter along The Bridge. Normalizing Mental Illness and 
-Neurodiversity in Entertainment Media: Quieting the Madness. London & New York, Taylor & Francis. 96-109. https://lnu.divaportal.org/smash/record.jsf?pid=diva2%3A1553427&dswid=-4096
+Neurodiversity in Entertainment Media: Quieting the Madness. London & New York, Taylor & Francis. 96-109. <https://lnu.divaportal.org/smash/record.jsf?pid=diva2%3A1553427&dswid=-4096>
 
 4. Ekman, U., Kemani, M. K., Wallert, J., Wicksell, R. K., Holmström, L., Ngandu, T., Rennie, A., Akenine, U., Westman, E., & Kivipelto, M. (2020). 
 Evaluation of a Novel Psychological Intervention Tailored for Patients With Early Cognitive Impairment (PIPCI): Study Protocol of a Randomized 
-Controlled Trial. Frontiers in Psychology, 11. doi:10.3389/fpsyg.2020.600841. PMID: 33424715. https://pubmed.ncbi.nlm.nih.gov/33424715/
+Controlled Trial. Frontiers in Psychology, 11. doi:10.3389/fpsyg.2020.600841. PMID: 33424715. <https://pubmed.ncbi.nlm.nih.gov/33424715/>
 
 5. Wicksell, R. K., Kanstrup, M., Kemani, M. K., Holmström, L., & Olsson, G. L. (2015). Acceptance and Commitment Therapy for children and adolescents with physical health concerns. Current Opinion in Psychology, 2, 1-5. doi:10.1016/j.copsyc.2014.12.029. PMID: N/A.
-https://www.sciencedirect.com/science/article/abs/pii/S2352250X14000475
+<https://www.sciencedirect.com/science/article/abs/pii/S2352250X14000475>
