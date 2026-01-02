@@ -1,7 +1,7 @@
 .github.io
 # Hi, I'm Mike
 
-**Docent (Associate Professor), Licensed Clinical Psychologist, PhD**  
+**Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
 
 I work at **Karolinska University Hospital** and am affiliated with **Karolinska Institutet**. My background spans leadership in healthcare, applying and implementing clinical psychology within healthcare, research within the field of behavioural medicine and chronic pain. These days I split my time between **clinical digitalisation**, **research**, and exploring how **AI** can be used responsibly in healthcare.
