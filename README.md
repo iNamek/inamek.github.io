@@ -1,5 +1,5 @@
 .github.io
-# README: Mike
+# About me 
 
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
@@ -10,16 +10,12 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ## What I do
 
-  - **Clinical psychology & behavioural medicine**  
-  - Longstanding focus on chronic pain, and ACT-based constructs, processes and interventions.  
-  - Clinical experience delivering cognitive behavioural interventions in specialised healthcare settings.
-
-  - **Clinical digitalisation / service development**  
+  - **Clinical digitalisation/service development**  
   - Supporting the development of **digital and hybrid clinical workflows** at Karolinska University Hospital.  
-  - Interested in how digital tools reshape clinical workflows, day-to-day clinical work and patient experiences and outcomes.
+  - Interested in if/how digital tools and clinical workflows can create value in day-to-day clinical work and improve patient experiences and clinical outcomes.
 
   - **Research**  
-  - Acceptance and Commitment Therapy (ACT) for longstanding pain (doctoral work).  
+  - Acceptance and Commitment Therapy (ACT) for longstanding pain.  
   - Psychometric evaluation of self-report measures in chronic pain and healthcare contexts.  
   - Studies on **ME/CFS** and **post-COVID-19 condition**, including symptom profiles, sickness behaviour, and rehabilitation.  
 
@@ -31,12 +27,12 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ## Research interests (selected)
 
-- Chronic pain, ACT, psychological flexibility  
-- Digital and hybrid care models  
+- Chronic pain, ACT, processes of change  
+- Digital and hybrid care interventions  
 - Psychometrics and outcome measurement in healthcare  
 - Post COVID-19 condition and ME/CFS  
 - AI in healthcare, clinical decision support, and documentation tools  
-- Non-technical AI safety and the broader implications of AI for healthcare systems
+- Implementation of narrow AI applications in healthcare, and broader non-technical AI safety issues 
 
 ---
 
@@ -62,7 +58,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 - How clinical narrow AI tools actually behave “in the wild” – in real clinics, with real constraints.  
 - Practical ways to evaluate **AI safety** and robustness from a non-technical/clinical perspective.  
-- How to design digital interventions and workflows that deliver value and integrate smoothly with the day-to-day reality of clinicians and patients.
+- How to design and evaluate digital interventions and workflows that (potentially) deliver value and integrate smoothly with the day-to-day reality of clinicians and patients.
 
 ---
 
