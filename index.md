@@ -145,16 +145,16 @@ Parental leave, approximately 30%
 
 ## Scientific publications {#publications}
 
+### Bibliometric parameters (2023-11-02)
+- Total number of citations: 684 
+- Sum JIF: 78.9
+
 ### Under Review
 1. Ernest C, Hanafi R, Brisby H, Fors A, Hedman H, Kemani M, Lundberg M, Nijs J, Zetterberg H, Karlsson E. Get Back, a person-centered digital program to promote physical activity among patients undergoing spinal stenosis surgery: A randomized feasibility study. 
 
 2. Liljebo T, Norlin A-K, Kemani MK, Jonsjö M, Schmidt PT, Lindfors PJ, Störsrud, Andreasson A. Differences in nutrient intake, gastrointestinal symptoms and fatigue: A cross-sectional study comparing patients with persistent fatigue or IBS to the general population.
 
 3. Hanafi, R, Ernest, C, Karlsson, E, Kemani, MK, Nijs, J, Lundberg, M, Jakobsson, M. Validity and reliability of remote physical capacity testing via video call in patients with lumbar spinal stenosis scheduled for surgery. 
-
-### Bibliometric parameters (2023-11-02)
-- Total number of citations: 697 (571 citing articles)  
-- H-index: 13  
 
 ### List of original works
 1. Nygren-Bonnier M, Svensson-Raskh A, Holmström L, Törnberg A, Svensson A, Loewenstein D, Regardt M, Björnson M, Hallberg C, Kemani M, Mc Allister A, Körner Gustafsson J, Halvarsson A, Ekman U, Nordstrand L, Guidetti S, Anmyr L, Bragesjö M, Åström Reitan J, Badinlou F, Dahl O, Åkerman E, Villner P, Brodin P, Caidahl K, Ståhlberg M, Fedorowski A, Sköld M, Runold M, Bruchfeld J, Rydwik E. Health outcomes in hospitalised and non-hospitalised individuals after COVID-19, an observational, cross-sectional study. Commun Med (Lond). 2025 Dec 4;5(1):512. doi: 10.1038/s43856-025-01251-5. PMID: 41345271; PMCID: PMC12678783.
