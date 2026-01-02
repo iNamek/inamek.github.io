@@ -1,11 +1,11 @@
 # Mike Kemani
-Licensed Psychologist, PhD, Docent (Associate Professor)  
+Licensed psychologist, PhD, Docent (associate professor) in clinical psychology.
 Stockholm, Sweden  
 
 **Work contact**  
 Phone: +46 72 254 26 26  
 Email (work): mike.kemani@regionstockholm.se  
-Email (research): mike.kemani2@ki.se  
+Email (research): mike.kemani.2@ki.se  
 
 ---
 
@@ -150,7 +150,7 @@ Parental leave, approximately 30%
 - Sum JIF: 78.9
 
 ### In manuscript
-1. <B>Kemani M</B>, Holmström L, Gentili C, Rydvik E, Nygren-Bonnier, M, Bragesjö, M. Psychological factors, insomnia and burnout in healthcare personnel in the wake of covid-19 – a longitudinal observational study 
+1. <B>Kemani M</B>, Holmström L, Gentili C, Rydvik E, Nygren-Bonnier, M, Bragesjö, M. Psychological factors, insomnia and burnout in healthcare personnel in the wake of COVID-19 – a longitudinal observational study 
 
 2. Hanafi R, Karlsson E, <B>Kemani M</B>, Lundberg M. Exploring patient specific outcomes in lumbar fusion surgery.
 
