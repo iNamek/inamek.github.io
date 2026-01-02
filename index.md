@@ -108,7 +108,7 @@ Docent, 2024-08-28
 
 ## Current position {#current-position}
 
-**2019–2025-02-28**  
+**2025-03-01**  
 Verksamhetsutvecklare, klinisk digitalisering/Operations developer, clinical digitalization, Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
 
 ---
