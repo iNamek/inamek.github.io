@@ -51,7 +51,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 ## Where to find more
 
   - **CV & publication list**:  
-  My full CV, publication list, and more details about ongoing work are available here: [Personal CV site (https://inamek.github.io)] <!-- replace with your actual URL -->
+  My full CV, publication list, and more details about ongoing work are available here: [Personal CV site (https://inamek.github.io/.github.io/)] <!-- replace with your actual URL -->
 
 - **Selected publications**:  
   See the CV site for a structured list of original works, general articles, and book chapters.
