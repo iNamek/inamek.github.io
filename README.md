@@ -16,7 +16,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
   - **Clinical digitalisation / service development**  
   - Supporting the development of **digital and hybrid clinical workflows** at Karolinska University Hospital.  
-  - Interested in how digital tools reshape day-to-day clinical work and patient journeys.
+  - Interested in how digital tools reshape clinical workflows, day-to-day clinical work and patient experiences and outcomes.
 
   - **Research**  
   - Acceptance and Commitment Therapy (ACT) for longstanding pain (doctoral work).  
