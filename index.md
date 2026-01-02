@@ -4,8 +4,7 @@ Stockholm, Sweden
 
 **Work contact**  
 Phone: +46 72 254 26 26  
-Email (work): mike.kemani@regionstockholm.se  
-Email (research): mike.kemani.2@ki.se  
+Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
 
 ---
 
