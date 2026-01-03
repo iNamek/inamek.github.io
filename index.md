@@ -29,8 +29,8 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
   <a href="#current-position">Current position</a> ·
   <a href="#prior-positions">Prior positions</a> ·
   <a href="#language-skills">Language skills</a> ·
-  <a href="#publications">Scientific publications</a>
-   <a href="#Ongoing studies">Ongoing studies</a>
+  <a href="#publications">Scientific publications</a> ·
+   <a href="#Ongoing studies">Ongoing studies</a> ·
    <a href="#research funding">Research funding</a>
 </nav>
 
