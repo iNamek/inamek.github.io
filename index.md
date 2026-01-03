@@ -30,8 +30,8 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
   <a href="#prior-positions">Prior positions</a> ·
   <a href="#language-skills">Language skills</a> ·
   <a href="#publications">Scientific publications</a> ·
-  <a href="#ongoing studies">Ongoing studies</a> ·
-  <a href="#research funding">Research funding</a>
+  <a href="#ongoing-studies">Ongoing studies</a> ·
+  <a href="#research-funding">Research funding</a>
 </nav>
 
 ---
@@ -238,7 +238,7 @@ Parental leave, approximately 30%
 
 ---
 
-## Ongoing studies {#ongoing studies}
+## Ongoing studies {#ongoing-studies}
 1. Evaluation of ACT for persons with early cognitive impairment - a three-arm randomized controlled trial (collaborator)
    
 2. Evaluation of an internet-delivered exposure-based psychological intervention for youth and their caregivers - a three-arm randomized controlled trial (collaborator)
@@ -246,6 +246,6 @@ Parental leave, approximately 30%
 3. A feasibility study of an Exposure-based psychological intervention for adolescents with BII-phobia (principal investigator)
 
 ---
-## Research funding {#research funding}
+## Research funding {#research-funding}
 
 **Work in progress** 
