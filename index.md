@@ -251,20 +251,20 @@ Parental leave, approximately 30%
 <table>
   <thead>
     <tr>
+      <th>Funder</th>
+      <th>PI/Co-applicant</th>
+      <th>Project title</th>
+      <th>Amount</th>
       <th>Year</th>
-      <th>Funder / Agency</th>
-      <th>Grant scheme / Type</th>
-      <th>Role (PI / Co-PI / Co-applicant)</th>
-      <th>Project title / Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Digital Futures (KTH) </td>
+      <td>Co-applicant</td>
+      <td>Large-scale delivery of an Internet-based psychological intervention in Region Stockholm using an advanced e-learning platform (QB-ACT). </td>
+      <td>1.000.000</td>
+      <td>2024-2026 </td>
     </tr>
     <tr>
       <td>Test</td>
