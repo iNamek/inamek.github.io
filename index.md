@@ -30,8 +30,8 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
   <a href="#prior-positions">Prior positions</a> ·
   <a href="#language-skills">Language skills</a> ·
   <a href="#publications">Scientific publications</a> ·
-   <a href="#Ongoing studies">Ongoing studies</a> ·
-   <a href="#research funding">Research funding</a>
+  <a href="#ongoing studies">Ongoing studies</a> ·
+  <a href="#research funding">Research funding</a>
 </nav>
 
 ---
@@ -237,6 +237,7 @@ Parental leave, approximately 30%
 5. Wicksell, R. K., Kanstrup, M., <B>Kemani, M. K.</B>, Holmström, L., & Olsson, G. L. (2015). Acceptance and Commitment Therapy for children and adolescents with physical health concerns. Current Opinion in Psychology, 2, 1-5. doi:10.1016/j.copsyc.2014.12.029. PMID: N/A. <https://www.sciencedirect.com/science/article/abs/pii/S2352250X14000475>
 
 ---
+
 ## Ongoing studies {#ongoing studies}
 1. Evaluation of ACT for persons with early cognitive impairment - a three-arm randomized controlled trial (collaborator)
    
