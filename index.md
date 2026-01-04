@@ -251,7 +251,7 @@ Parental leave, approximately 30%
 <table>
   <thead>
     <tr>
-    <th>Funder</th>
+      <th>Funder</th>
       <th>PI/Co-applicant</th>
       <th>Project title</th>
       <th>Amount</th>
