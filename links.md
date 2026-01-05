@@ -43,7 +43,7 @@
   My pages:
   <a href="/about">About</a> ·
   <a href="/index">CV</a> ·
-  <a href="/">Resources</a>
+  <a href="/links">Resources</a>
 </nav>
 
 <nav class="page-nav">
