@@ -1,49 +1,62 @@
 <style>
-  .sticky-nav {
+  /* --- Global site-wide nav (CV · About · Links & resources) --- */
+  .site-nav {
     position: sticky;
     top: 0;
     background: white;
     padding: 0.5rem 0;
     border-bottom: 1px solid #ddd;
-    z-index: 1000;
+    z-index: 2000;
   }
 
-  .sticky-nav a {
+  .site-nav a {
     margin-right: 0.4rem;
   }
 
+  /* --- Page-specific sticky nav (sections within the page) --- */
+  .page-nav {
+    position: sticky;
+    top: 2.4rem; /* roughly the height of the site-nav; tweak if needed */
+    background: white;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid #eee;
+    z-index: 1500;
+  }
+
+  .page-nav a {
+    margin-right: 0.4rem;
+  }
+
+  /* Smooth scrolling */
   html {
     scroll-behavior: smooth;
   }
 
-  /* Make anchored headings stop below the sticky menu */
+  /* Offset anchored headings so they appear below both nav bars */
   h2[id],
   h3[id] {
-    scroll-margin-top: 80px; /* adjust if your nav is taller/shorter */
-  }
-
-  /* (optional) if you want a bit of space above main content */
-  body {
-    padding-top: 0.5rem;
+    scroll-margin-top: 126px; /* adjust if combined nav height changes */
   }
 </style>
 
-<nav class="sticky-nav">
-  <a href="/">CV</a> ·
+<nav class="site-nav">
+  My pages:
   <a href="/about">About</a> ·
-  <a href="/links">Links & resources</a>
+  <a href="/">CV</a> ·
+  <a href="/links">Resources</a>
+</nav>
+
+<nav class="page-nav">
+  Resources menu:
+   <a href="#websites">Websites</a> ·
+  <a href="#podcasts">Podcasts</a> ·
+  <a href="#books">Books</a> ·
+  <a href="#essays">Notes & essays</a>
 </nav>
 
 # Resources
 
 A collection of links to resources I find useful or interesting.
-
-<nav>
-  <a href="#websites">Websites</a> ·
-  <a href="#podcasts">Podcasts</a> ·
-  <a href="#books">Books</a> ·
-  <a href="#essays">Notes & essays</a>
-</nav>
 
 ---
 
