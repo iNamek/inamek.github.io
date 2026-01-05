@@ -160,7 +160,7 @@ Licensed psychologist (psykologlegitimation), Sweden
 M.Sc. in Psychology (psykologexamen), Stockholm University. Master's thesis: En fråga som man måste hålla levande, vad man gör när man sätter en diagnos: etiskt perspektiv på psykologers uppfattningar av diagnostik och diagnostisering. Link to Masters thesis: <https://su.diva-portal.org/smash/record.jsf?pid=diva2%3A196923&dswid=609>  
 
 **2003–2006**  
-B.Sc. in Theoretical Philosophy, Stockholm University  
+B.Sc. in Theoretical Philosophy, Stockholm University. Bachelors thesis: Chalmers (o)tänkbara zombies.  
 
 **1994-1995**  
 Upper Secondary Engineering Diploma, Mechanical Engineering (Gymnasieingenjör, maskinteknik)
@@ -179,15 +179,12 @@ Associate's degree in mechanical engineering from the Royal Institute of Technol
 Department of Clinical Neuroscience  
 
 **Title of dissertation**  
-*Efficacy and processes of change in Acceptance and Commitment Therapy for Longstanding Pain*  
+*Efficacy and processes of change in Acceptance and Commitment Therapy for Longstanding Pain*. Link to thesis: <https://openarchive.ki.se/articles/thesis/Efficacy_and_processes_of_change_in_acceptance_and_commitment_therapy_for_chronic_pain/26912881?file=48956956>  
 
 **Supervisors**  
 - Main supervisor: Med Dr. Rikard Wicksell  
 - Co-supervisor: Associate Professor Gunnar Olsson  
 - Co-supervisor: Professor Mats Lekander  
-
-**Link to dissertation**  
-<https://openarchive.ki.se/articles/thesis/Efficacy_and_processes_of_change_in_acceptance_and_commitment_therapy_for_chronic_pain/26912881?file=48956956>
 
 ---
 
