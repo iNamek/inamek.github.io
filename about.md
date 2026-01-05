@@ -1,4 +1,62 @@
-# About me 
+<style>
+  /* --- Global site-wide nav (CV · About · Links & resources) --- */
+  .site-nav {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ddd;
+    z-index: 2000;
+  }
+
+  .site-nav a {
+    margin-right: 0.4rem;
+  }
+
+  /* --- Page-specific sticky nav (sections within the page) --- */
+  .page-nav {
+    position: sticky;
+    top: 2.4rem; /* roughly the height of the site-nav; tweak if needed */
+    background: white;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid #eee;
+    z-index: 1500;
+  }
+
+  .page-nav a {
+    margin-right: 0.4rem;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Offset anchored headings so they appear below both nav bars */
+  h2[id],
+  h3[id] {
+    scroll-margin-top: 126px; /* adjust if combined nav height changes */
+  }
+</style>
+
+<nav class="site-nav">
+  My pages:
+  <a href="/about">About</a> ·
+  <a href="/">CV</a> ·
+  <a href="/links">Resources</a>
+</nav>
+
+<nav class="page-nav">
+  About menu:
+  <a href="#about">About me</a> ·
+  <a href="#what">What I do</a> ·
+  <a href="#research-interests">Research Interests</a> ·
+  <a href="#tools">Tools & methods I use</a> ·
+  <a href="#more">Where to find more</a> ·
+  <a href="#curios">What I'm currently curios about</a> ·
+</nav>
+
+# About me [about]
 
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
@@ -7,7 +65,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## What I do
+## What I do {what}
 
   - **Clinical digitalisation/service development**  
   - Supporting the development of **digital and hybrid clinical workflows** at Karolinska University Hospital.  
@@ -24,7 +82,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## Research interests (selected)
+## Research interests {resesarch interests}
 
 - Chronic pain, ACT, processes of change  
 - Digital and hybrid care interventions  
@@ -35,7 +93,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## Tools & methods I use
+## Tools & methods I use {tools}
 
 - **Statistics & AI-assisted R programming**: R (longitudinal models, mixture/latent class models, psychometrics). 
 - **Study designs**: RCTs, longitudinal observational studies, psychometric validation, feasibility and implementation studies. 
@@ -43,7 +101,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## Where to find more
+## Where to find more {more}
 
   - **CV & publication list**:  
   My full CV, publication list, and more details about ongoing work are available here: https://inamek.github.io/.github.io/
@@ -53,7 +111,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## What I’m currently curious about
+## What I’m currently curious about {curios}
 
 - How clinical narrow AI tools actually behave “in the wild” – in real clinics, with real constraints.  
 - Practical ways to evaluate **AI safety** and robustness from a non-technical/clinical perspective.  
