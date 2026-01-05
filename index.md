@@ -107,13 +107,15 @@ Currently I'm exploring a move towards research on applied clinical AI-based sol
 
 ## Courses and degrees {#courses-degrees}
 
-**2015-**  
+**2024**  
 Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-06-28; 15 credits)
 
+**2023**  
 Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credits) 
 
 Teaching and learning in higher education distance (GHPD), Karolinska institutet (2023-05; 7.5 credits)
 
+**2016**
 Introductory Doctoral Supervision, Karolinska Institutet (2016-05; 1.5 credits)
 
 **2010–2015**  
@@ -128,11 +130,13 @@ M.Sc. in Psychology (psykologexamen), Stockholm University
 **2003–2006**  
 B.Sc. in Theoretical Philosophy, Stockholm University  
 
-**<2003**  
+**1994-1995**  
 Upper Secondary Engineering Diploma, Mechanical Engineering (1994-1995; Gymnasieingenjör, maskinteknik)
 
+**1993-1994**  
 Associate's degree in mechanical engineering from the Royal Institute of Technology (1993-1994; completed 33 credits towards a degree, of 120 credits)
 
+**1989-1992**
 3-year Technical Upper Secondary Programme, Mechanical Engineering specialisation (1992; Teknisk linje, 3-årig maskinteknisk gren)
 
 ---
@@ -151,7 +155,7 @@ Department of Clinical Neuroscience
 - Co-supervisor: Professor Mats Lekander  
 
 **Link to dissertation**  
-<https://openarchive.ki.se/xmlui/handle/10616/44579>
+[<https://openarchive.ki.se/xmlui/handle/10616/44579>](https://openarchive.ki.se/articles/thesis/Efficacy_and_processes_of_change_in_acceptance_and_commitment_therapy_for_chronic_pain/26912881?file=48956956)
 
 ---
 
