@@ -1,13 +1,3 @@
-# Mike Kemani
-Licensed psychologist, PhD, docent (associate professor) in clinical psychology.
-Stockholm, Sweden  
-
-**Work contact**  
-Phone: +46 72 254 26 26  
-Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
-
----
-
 <style>
   .table-wrapper {
     overflow-x: auto;
@@ -70,6 +60,16 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
     z-index: 1000;
   }
 </style>
+
+# Mike Kemani
+Licensed psychologist, PhD, docent (associate professor) in clinical psychology.
+Stockholm, Sweden  
+
+**Work contact**  
+Phone: +46 72 254 26 26  
+Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
+
+---
 
 <nav class="sticky-nav">
   <a href="#about">About</a> ·
