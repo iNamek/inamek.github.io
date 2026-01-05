@@ -140,12 +140,17 @@ Surface-Mount Technology (SMT) Operator (SMD-operatör), Ericsson Radio Access A
 ## Courses and degrees {#courses-degrees}
 
 **2024**  
-Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-06-28; 15 credits)
+Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-06; 15 credits)
 
 **2023**  
 Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credits) 
 
 Teaching and learning in higher education distance (GHPD), Karolinska institutet (2023-05; 7.5 credits)
+
+The psychologist as a change leader: The course is accredited as an in-depth course in work and organizational psychology and educational psychology. When performance falls short in an organization, the individual is often identified as the cause. The course provided a framework for contextualizing the analysis and appropriate action(s), in contrast to focusing on the individual level, which is often inadequate.
+
+**2022/2023**  
+WeManage: a leadership program for experienced section managers at Karolinska University Hospital. The program provided perspectives, insights, and tools that equiped participants to lead within the complexity that characterizes a large healthcare organization. The program comprised twelve program days divided into four modules. 
 
 **2016**  
 Introductory Doctoral Supervision, Karolinska Institutet (2016-05; 1.5 credits)
