@@ -93,7 +93,7 @@
 
 <nav class="site-nav">
   My pages:
-  <a href="/About">About</a> ·
+  <a href="/about">About</a> ·
   <a href="/">CV</a> ·
   <a href="/links">Resources</a>
 </nav>
