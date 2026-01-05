@@ -8,31 +8,6 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
 
 ---
 
-<style><--
-  .sticky-nav {
-    position: sticky;
-    top: 0;
-    background: white;
-    padding: 0.5rem 0;
-    border-bottom: 1px solid #ddd;
-    z-index: 1000;
-  }
-</style>
-
-<nav class="sticky-nav">
-  <a href="#about">About</a> ·
-  <a href="#personal-data">Personal data</a> ·
-  <a href="#courses-degrees">Courses & degrees</a> ·
-  <a href="#doctoral-degree">Doctoral degree</a> ·
-  <a href="#postdoc">Postdoc appointments</a> ·
-  <a href="#docent">Docent-level competence</a> ·
-  <a href="#current-position">Current position</a> ·
-  <a href="#prior-positions">Prior positions</a> ·
-  <a href="#publications">Scientific publications</a> ·
-  <a href="#ongoing-studies">Ongoing studies</a> ·
-  <a href="#research-funding">Research funding</a>
-</nav>
-
 <style>
   .table-wrapper {
     overflow-x: auto;
@@ -84,6 +59,31 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
     }
   }
 </style>
+
+<style>
+  .sticky-nav {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ddd;
+    z-index: 1000;
+  }
+</style>
+
+<nav class="sticky-nav">
+  <a href="#about">About</a> ·
+  <a href="#personal-data">Personal data</a> ·
+  <a href="#courses-degrees">Courses & degrees</a> ·
+  <a href="#doctoral-degree">Doctoral degree</a> ·
+  <a href="#postdoc">Postdoc appointments</a> ·
+  <a href="#docent">Docent-level competence</a> ·
+  <a href="#current-position">Current position</a> ·
+  <a href="#prior-positions">Prior positions</a> ·
+  <a href="#publications">Scientific publications</a> ·
+  <a href="#ongoing-studies">Ongoing studies</a> ·
+  <a href="#research-funding">Research funding</a>
+</nav>
 
 ---
 
