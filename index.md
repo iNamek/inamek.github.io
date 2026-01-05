@@ -74,11 +74,11 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
 <nav class="sticky-nav">
   <a href="#about">About</a> ·
   <a href="#personal-data">Personal data</a> ·
-  <a href="#courses-degrees">Courses & degrees</a> ·
+  <a href="#current-position">Current position</a> ·
   <a href="#doctoral-degree">Doctoral degree</a> ·
   <a href="#postdoc">Postdoc appointments</a> ·
   <a href="#docent">Docent-level competence</a> ·
-  <a href="#current-position">Current position</a> ·
+  <a href="#courses-degrees">Courses & degrees</a> ·
   <a href="#prior-positions">Prior positions</a> ·
   <a href="#publications">Scientific publications</a> ·
   <a href="#ongoing-studies">Ongoing studies</a> ·
