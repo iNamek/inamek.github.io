@@ -99,9 +99,9 @@ Currently I'm exploring a move towards research on applied clinical AI-based sol
 
 ## Personal data {#personal-data}
 
-Name: Mike Kemani  
-Year of birth: 1973  
-Languages: Swedish (native speaker); English (near-native speaker)
+**Name:** Mike Kemani  
+**Year of birth:** 1973  
+**Languages:** Swedish (native speaker); English (near-native speaker)
 
 ---
 
@@ -109,8 +109,11 @@ Languages: Swedish (native speaker); English (near-native speaker)
 
 **>2015**
 Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-06-28; 15 credits)
+
 Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credits) 
+
 Teaching and learning in higher education distance (GHPD), Karolinska institutet (2023-05; 7.5 credits)
+
 Introductory Doctoral Supervision, Karolinska Institutet (2016-05; 1.5 credits)
 
 **2010–2015**  
@@ -127,6 +130,7 @@ B.Sc. in Theoretical Philosophy, Stockholm University
 
 **<2003**
 Associate's degree in mechanical engineering from the Royal Institute of Technology (1993-1994; completed 33 credits towards a degree, of 120 credits)
+
 3-year Technical Upper Secondary Programme, Mechanical Engineering specialisation (1992; Teknisk linje, 3-årig maskinteknisk gren)
 
 ---
