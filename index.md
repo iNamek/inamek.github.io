@@ -173,7 +173,7 @@ PhD program, Karolinska Institutet
 Licensed psychologist (psykologlegitimation), Sweden  
 
 **2002–2007**  
-M.Sc. in Psychology (psykologexamen), Stockholm University. Master's thesis: *En fråga som man måste hålla levande, vad man gör när man sätter en diagnos: etiskt perspektiv på psykologers uppfattningar av diagnostik och diagnostisering*. Link to Masters thesis: <https://su.diva-portal.org/smash/record.jsf?pid=diva2%3A196923&dswid=609>  
+M.Sc. in Psychology (psykologexamen), Stockholm University. Master's thesis: *En fråga som man måste hålla levande, vad man gör när man sätter en diagnos: etiskt perspektiv på psykologers uppfattningar av diagnostik och diagnostisering*. Link to Masters thesis: <https://www.diva-portal.org/smash/record.jsf?pid=diva2:196923>
 
 **2003–2006**  
 B.Sc. in Theoretical Philosophy, Stockholm University. Bachelor's thesis: *Chalmers (o)tänkbara zombies*.  
