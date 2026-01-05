@@ -41,7 +41,7 @@
 
 <nav class="site-nav">
   My pages:
-  <a href="/">About</a> ·
+  <a href="/about">About</a> ·
   <a href="/index">CV</a> ·
   <a href="/links">Resources</a>
 </nav>
