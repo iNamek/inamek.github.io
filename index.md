@@ -70,8 +70,6 @@
     scroll-margin-top: 80px; /* adjust if your nav is taller/shorter */
   }
 </style>
-  
-</style>
 
 # Curriculum Vitae: Mike Kemani
 Licensed psychologist, PhD, docent (associate professor) in clinical psychology.
@@ -158,12 +156,12 @@ Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-
 **2023**  
 Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credits) 
 
-Teaching and learning in higher education (GHPD), Karolinska institutet (2023-05; 7.5 credits)
+Teaching and learning in higher education (GHPD), Karolinska Institutet (2023-05; 7.5 credits)
 
 The psychologist as a change leader: The course is accredited as an in-depth course in work and organizational psychology and educational psychology. When performance falls short in an organization, the individual is often identified as the cause. The course provided a framework for contextualizing the analysis and appropriate action(s), in contrast to focusing on the individual level, which is often inadequate.
 
 **2022/2023**  
-WeManage: a leadership program for experienced section managers at Karolinska University Hospital. The program provided perspectives, insights, and tools that equiped participants to lead within the complexity that characterizes a large healthcare organization. The program comprised twelve program days divided into four modules. 
+WeManage: a leadership program for experienced section managers at Karolinska University Hospital. The program provided perspectives, insights, and tools that equipped participants to lead within the complexity that characterizes a large healthcare organization. The program comprised twelve program days divided into four modules. 
 
 **2016**  
 Introductory Doctoral Supervision, Karolinska Institutet (2016-05; 1.5 credits)
@@ -233,9 +231,9 @@ M gyllenhammar: Date of registration, 2022/11/10, Department of Neurobiology, Ca
 **PhD candidates supervised to thesis defence, serving as co-supervisor**  
 U Wallbing: Date of thesis defence, 2022/09/09, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Thesis title: *Help Overcoming Pain Early (HOPE) - a person-centred intervention for adolescents with chronic pain in a school setting*. Main Supervisor: S Nilsson, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Link to dissertation: <https://hdl.handle.net/2077/71514>
 
-J Åström: Date of thesis defence, 2022/06/14, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: *Psychological factors, sickness behavior and inflammatory biomarkers in longstanding pain*. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet. Link to dissertation <https://hdl.handle.net/10616/48067>
+J Åström: Date of thesis defence, 2022/06/14, Department of Clinical Neurosience, Karolinska Institutet. Thesis title: *Psychological factors, sickness behavior and inflammatory biomarkers in longstanding pain*. Main Supervisor: R Wicksell, Department of Clinical Neurosience, Karolinska Institutet. Link to dissertation <https://hdl.handle.net/10616/48067>
 
-J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: *Psychological factors and communication skills training in intensive care medical staff*. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet. Link to dissertation: <https://hdl.handle.net/10616/48049>
+J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosience, Karolinska Institutet. Thesis title: *Psychological factors and communication skills training in intensive care medical staff*. Main Supervisor: R Wicksell, Department of Clinical Neurosience, Karolinska Institutet. Link to dissertation: <https://hdl.handle.net/10616/48049>
 
 ---
 
