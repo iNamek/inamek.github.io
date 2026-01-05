@@ -80,7 +80,7 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
   <a href="#postdoc">Postdoc appointments</a> ·
   <a href="#docent">Docent-level competence</a> ·
   <a href="#courses-degrees">Courses & degrees</a> ·
-  <a href="supervision">Research supervision}
+  <a href="#supervision">Research supervision</a> ·
   <a href="#publications">Scientific publications</a> ·
   <a href="#ongoing-studies">Ongoing studies</a> ·
   <a href="#research-funding">Research funding</a>
