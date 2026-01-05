@@ -107,7 +107,7 @@ Currently I'm exploring a move towards research on applied clinical AI-based sol
 
 ## Courses and degrees {#courses-degrees}
 
-**>2015**  
+**2015-**  
 Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-06-28; 15 credits)
 
 Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credits) 
@@ -192,6 +192,14 @@ Clinical Psychologist, Karolinska University Hospital
 **2007–2008**  
 Psychologist in training (Praktisk Tjänstgöring för Psykologer; PTP),  
 Karolinska University Hospital, Smärtbehandlingsenheten, Psykologkliniken  
+
+**1995-2003** 
+Ericsson Radio Systems AB 
+2000-2003; System Verification Test Developer – WCDMA Radio Base Stations
+
+Ericsson Radio Access AB 
+1999-2000; Process Planner for Surface-Mount Technology (SMT), Production Engineering (Processberedeare för SMD inom produktionsteknik) 
+1995-1999; Surface-Mount Technology (SMT) Operator (SMD-operatör)
 
 ---
 
