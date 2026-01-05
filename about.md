@@ -56,7 +56,7 @@
   <a href="#curios">What I'm currently curios about</a> ·
 </nav>
 
-# About me [about]
+# About me {about}
 
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
