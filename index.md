@@ -146,7 +146,7 @@ Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-
 **2023**  
 Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credits) 
 
-Teaching and learning in higher education distance (GHPD), Karolinska institutet (2023-05; 7.5 credits)
+Teaching and learning in higher education (GHPD), Karolinska institutet (2023-05; 7.5 credits)
 
 The psychologist as a change leader: The course is accredited as an in-depth course in work and organizational psychology and educational psychology. When performance falls short in an organization, the individual is often identified as the cause. The course provided a framework for contextualizing the analysis and appropriate action(s), in contrast to focusing on the individual level, which is often inadequate.
 
@@ -185,7 +185,7 @@ Associate's degree in mechanical engineering from the Royal Institute of Technol
 Department of Clinical Neuroscience  
 
 **Title of dissertation**  
-*Efficacy and processes of change in Acceptance and Commitment Therapy for Longstanding Pain*. Link to dissertation: <https://openarchive.ki.se/articles/thesis/Efficacy_and_processes_of_change_in_acceptance_and_commitment_therapy_for_chronic_pain/26912881?file=48956956>  
+*Efficacy and processes of change in Acceptance and Commitment Therapy for Longstanding Pain*. Link to dissertation: <https://hdl.handle.net/10616/44579>  
 
 **Supervisors**  
 - Main supervisor: Med Dr. Rikard Wicksell  
@@ -213,17 +213,17 @@ Docent, 2024-08-28
 
 ## Research supervision {#supervision}
 
-**Ongoing supervision of a PhD candidate, serving as co-supervisor**  
-R Hanafi: Date of registration, 2021/02/11, Department of Health Promoting Science, Sophiahemmet University Stockholm. Title of doctoral project: Get B@ck - a person-centred prehabilitation program for the most vulnerable patients planned for lumbar spine surgery. Half time seminar: 2024/02/15. Main Supervisor: M Lundberg Department of Health Promoting Science, Sophiahemmet University Stockholm.
+**Ongoing PhD supervision, serving as co-supervisor**  
+R Hanafi: Date of registration, 2021/02/11, Department of Health Promoting Science, Sophiahemmet University Stockholm. Title of doctoral project: *Get B@ck - a person-centred prehabilitation program for the most vulnerable patients planned for lumbar spine surgery*. Half time seminar: 2024/02/15. Main Supervisor: M Lundberg Department of Health Promoting Science, Sophiahemmet University Stockholm.
 
-M gyllenhammar: Date of registration, 2022/11/10, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet. Title of doctoral project: Evaluation of a Psychological Intervention Tailored for Patients with Early Cognitive Impairment. Main Supervisor: U Ekman, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet.
+M gyllenhammar: Date of registration, 2022/11/10, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet. Title of doctoral project: *Evaluation of a Psychological Intervention Tailored for Patients with Early Cognitive Impairment*. Main Supervisor: U Ekman, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet.
 
-**PhD candidates supervised up to the defence of the candidate’s doctoral thesis, serving as co-supervisor**  
-U Wallbing: Date of thesis defence, 2022/09/09, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Thesis title: Help Overcoming Pain Early (HOPE) - a person-centred intervention for adolescents with chronic pain in a school setting. Main Supervisor: S Nilsson, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. 
+**PhD candidates supervised to thesis defence, serving as co-supervisor**  
+U Wallbing: Date of thesis defence, 2022/09/09, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Thesis title: *Help Overcoming Pain Early (HOPE) - a person-centred intervention for adolescents with chronic pain in a school setting*. Main Supervisor: S Nilsson, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Link to dissertation: <https://hdl.handle.net/2077/71514>
 
-J Åström: Date of thesis defence, 2022/06/14, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: Psychological factors, sickness behavior and inflammatory biomarkers in longstanding pain. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet. 
+J Åström: Date of thesis defence, 2022/06/14, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: *Psychological factors, sickness behavior and inflammatory biomarkers in longstanding pain*. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet. Link to dissertation <https://hdl.handle.net/10616/48067>
 
-J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: Psychological factors and communication skills training in intensive care medical staff. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet. 
+J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: *Psychological factors and communication skills training in intensive care medical staff*. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet. Link to dissertation: <https://hdl.handle.net/10616/48049>
 
 ---
 
