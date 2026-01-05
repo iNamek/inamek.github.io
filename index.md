@@ -109,6 +109,7 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
 ---
 
 <nav class="page-nav">
+  CV menu:
   <a href="#about">About</a> ·
   <a href="#personal-data">Personal data</a> ·
   <a href="#current-position">Current position</a> ·
