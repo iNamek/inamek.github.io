@@ -62,10 +62,9 @@ A collection of links to resources I find useful or interesting.
 
 ## Websites {#websites}
 
-<b>AI Companies</b>
-
-<https://deepmind.google>
-<https://www.anthropic.com/>
+<b>AI Companies</b><br>
+<https://deepmind.google><br>
+<https://www.anthropic.com/><br>
 
 - ...
 
