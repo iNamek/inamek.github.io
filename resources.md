@@ -63,20 +63,20 @@ A collection of links to resources I find useful or interesting.
 ## Websites {#websites}
 
 <b>AI Companies</b><br>
-<a href="https://deepmind.google">Google Deep Mind<br>
-<a href="https://www.anthropic.com/">Anthropic<br>
-<a href="https://openai.com/sv-SE/">Open AI<br>
-<a href="https://ai.meta.com/">Meta AI<br>
-<a href="https://x.ai/">X AI<br></a>
+<a href="https://deepmind.google">Google Deep Mind</a><br>
+<a href="https://www.anthropic.com/">Anthropic</a><br>
+<a href="https://openai.com/sv-SE/">Open AI</a><br>
+<a href="https://ai.meta.com/">Meta AI</a><br>
+<a href="https://x.ai/">X AI</a>
 
 <b>Focusing on AI safety</b><br>
-<a href="https://www.conjecture.dev/">Conjecture<br>
+<a href="https://www.conjecture.dev/">Conjecture</a><br>
 <a href="https://ssi.inc/">Safe Superintelligence</a>
 
 <b>People</b><br>
-<a href="https://mila.quebec/en/directory/yoshua-bengio">Yoshua Bengio<br>
-<a href="https://paulfchristiano.com/">Paul Christiano<br>
-<a href="https://nickbostrom.com/">Nick Bostrom<br>
+<a href="https://mila.quebec/en/directory/yoshua-bengio">Yoshua Bengio</a><br>
+<a href="https://paulfchristiano.com/">Paul Christiano</a><br>
+<a href="https://nickbostrom.com/">Nick Bostrom</a><br>
 <a href="https://consc.net/">David Chalmers</a>
 
 ## Podcasts {#podcasts}
