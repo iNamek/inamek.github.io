@@ -61,6 +61,8 @@ A collection of links to resources I find useful or interesting.
 ---
 
 ## Websites {#websites}
+
+<b>AI Companies</b>
 <https://deepmind.google>
 
 - ...
