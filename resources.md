@@ -84,14 +84,14 @@ A collection of links to resources I find useful or interesting.
 
 ## Books {#books}
 
-Currently reading<br>
+<b>Currently reading</b><br>
 Human Compatible; Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
 Genius Makers; Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
 The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective; Jan De Houwer, Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
 Reality+: Virtual Worlds and the Problems of Philosophy; David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
 
 
-Read<br>
+<b>Read</b><br>
 AI: Unexplainable, Unpredictable, Uncontrollable; Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
 If Anyone Builds it Everyone Dies; Eliezer Yudkowski and Nate Soares; <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a><br>
 Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI; Karen Hao: <a href="https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=rae_2">Goodreads</a><br>
