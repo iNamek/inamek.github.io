@@ -101,4 +101,4 @@ The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future; Keach Hagey
 
 ## Writings {#writings}
 
-- ...
+<a href="https://ai-2027.com/">AI 2027; Daniel Kokatejo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
