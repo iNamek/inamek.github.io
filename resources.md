@@ -51,7 +51,7 @@
    <a href="#websites">Websites</a> ·
   <a href="#podcasts">Podcasts</a> ·
   <a href="#books">Books</a> ·
-  <a href="#essays">Notes & essays</a>
+  <a href="#writings">Writings</a>
 </nav>
 
 # Resources
@@ -87,6 +87,6 @@ A collection of links to resources I find useful or interesting.
 
 - ...
 
-## Notes & essays {#essays}
+## Writings {#writings}
 
 - ...
