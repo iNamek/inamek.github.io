@@ -52,7 +52,7 @@
   <a href="#podcasts">Podcasts</a> ·
   <a href="#books">Books</a> ·
   <a href="#writings">Writings</a>
-</nav>
+</nav><br>
 
 # Resources
 
