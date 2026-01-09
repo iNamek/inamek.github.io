@@ -80,7 +80,7 @@ A collection of links to resources I find useful or interesting.
 <a href="https://consc.net/">David Chalmers</a>
 
 ## Podcasts {#podcasts}
-
+<a href="https://open.spotify.com/show/2Op1WO3gwVwCrYHg4eoGyP?si=137b39f2cd694d0f">Future of Life Institute Podcast</a>
 - ...
 
 ## Books {#books}
