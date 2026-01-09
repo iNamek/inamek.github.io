@@ -89,8 +89,8 @@ Human Compatible; Stuart Russell: <a href="https://www.goodreads.com/book/show/4
 Genius Makers; Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
 
 Read<br>
-AI: Unexplainable, Unpredictable, Uncontrollable; Roman V. Yampolskiy: <a href"https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
-If Anyone Builds it Everyone Dies; Eliezer Yudkowski and Nate Soares; <a https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a><br>
+AI: Unexplainable, Unpredictable, Uncontrollable; Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
+If Anyone Builds it Everyone Dies; Eliezer Yudkowski and Nate Soares; <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a><br>
 
 ## Writings {#writings}
 
