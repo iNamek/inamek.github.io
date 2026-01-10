@@ -65,7 +65,7 @@ A collection of links to resources I find useful or interesting.
 <b>AI Companies</b><br>
 <a href="https://deepmind.google">Google Deep Mind</a><br>
 <a href="https://www.anthropic.com/">Anthropic</a><br>
-<a href="https://openai.com/sv-SE/">Open AI</a><br>
+<a href="https://openai.com/sv-SE/">OpenAI</a><br>
 <a href="https://ai.meta.com/">Meta AI</a><br>
 <a href="https://x.ai/">X AI</a>
 
@@ -85,17 +85,17 @@ A collection of links to resources I find useful or interesting.
 ## Books {#books}
 
 <b>Currently reading</b><br>
-<i>Human Compatible</i>; Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
-<i>Genius Makers</i>; Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
-<i>The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective</i>; Jan De Houwer, Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
-<i>Reality+: Virtual Worlds and the Problems of Philosophy</i>; David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
+<i>Human Compatible</i>, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
+<i>Genius Makers</i>, Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
+<i>The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective</i>, Jan De Houwer, Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
+<i>Reality+: Virtual Worlds and the Problems of Philosophy</i>, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
 <i>Conspiracy: Why the Rational Believe the Irrationa</i>, Michael Shermer<a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
 
 <b>Read</b><br>
-<i>AI: Unexplainable, Unpredictable, Uncontrollable</i>; Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
-<i>If Anyone Builds it Everyone Dies</i>; Eliezer Yudkowski and Nate Soares; <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a><br>
-<i>Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI</i>; Karen Hao: <a href="https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=rae_2">Goodreads</a><br>
-<i>The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future</i>; Keach Hagey: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
+<i>AI: Unexplainable, Unpredictable, Uncontrollable</i>, Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
+<i>If Anyone Builds it Everyone Dies</i>, Eliezer Yudkowski and Nate Soares: <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a><br>
+<i>Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI</i>, Karen Hao: <a href="https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=rae_2">Goodreads</a><br>
+<i>The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future</i>, Keach Hagey: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
 
 
 
