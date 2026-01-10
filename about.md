@@ -87,7 +87,7 @@ I work at **Karolinska University Hospital** as an operations developer, focusin
 ## Where to find more {#find-more}
 
 **CV & publication list**:  
-  My full CV, including a complete publication list, is available here: <https://inamek.github.io/index>
+  My full CV, including a complete publication list, is available here: <https://inamek.github.io/index>.
 
 ---
-If you’re interested in any of the above – whether from a clinical, research, or AI/safety angle – feel free to reach out (<mike.kemani.2@ki.se>).
+If you’re interested in any of the above – whether from a digitalization, research, AI-safety och conspiracy angle – feel free to reach out (<mike.kemani.2@ki.se>).
