@@ -61,31 +61,33 @@
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
 
-I work at **Karolinska University Hospital** as an operations developer, focusing on clinical digitalization. Also, I have a research affiliation at **Karolinska Institutet**. My background spans leadership in healthcare, applying and implementing clinical psychology within healthcare, research within the field of behavioral medicine and chronic pain. These days I split my time between **clinical digitalisation**, **research**, and explorations of how I can contribute towards **AI** safety and ethics.
+I work at **Karolinska University Hospital** as an operations developer, focusing on clinical digitalization. Also, I have a research affiliation at <a href="https://ki.se/en/people/mike-kemani-2">**Karolinska Institutet**</a>. My background spans leadership in healthcare, applying and implementing clinical psychology within healthcare, research within the field of behavioral medicine and chronic pain. These days I split my time between **clinical digitalisation**, **research**, and explorations of how I can contribute towards **AI** safety and ethics.
 
 ---
 
 ## What I do {#what}
 
 **Clinical digitalisation**  
-  - I support and facilitate the development, implementation and evaluation of **digital and hybrid clinical solutions and workflows** at Karolinska University Hospital. This includes the digitalization of assessments procedures and interventions provided by health care professionals.
+  - I support and facilitate the development, implementation, and evaluation of **digital and hybrid clinical solutions and workflows** at Karolinska University Hospital. This includes the digitalization of assessments procedures and interventions provided by health care professionals.
 
 **Research**  
-  - Internetbased Acceptance and Commitment Therapy (ACT) for longstanding pain in youth.  
-  - Studies on **ME/CFS** and **post-COVID-19 condition**, including symptom profiles, sickness behaviour, and rehabilitation.  
+  - Internet-based Acceptance and Commitment Therapy (ACT) for longstanding pain in youth.  
+  - Studies on **ME/CFS** and **post-COVID-19 condition**, including symptom profiles, and rehabilitation.
+  - Studies related to pre-/rehabiliation in lumbar fusion surgery 
   - Moving toward research on the development and evaluation of **applied AI-based solutions** in the healthcare context, and **non-technical AI safety**.
+  - Exploring ways to contribute researchwise, in investigating mis-, dis- and malinformation and conspiratioral thinking, and more specifically how these aspects are relevant to new technology and healthcare.
 
 ---
 
-## What I’m currently focusing on {#curios-about} 
-- Under the assumption that these systems are realisable, I'm aiming to understand the arguments concluding that there are substantial risks in the near and long-term in developing Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI), as well as the theoretical work that has been done to formulate strategies for the development of safe such systems (AGI, ASI), and how we can mitigate risks related to the development and proliferation of such systems. Additionally, assuming we find a way to safely enough navigate the development and integration of such systems into society - what could such a world look like? 
+## What I’m currently exploring {#curios-about} 
+- Under the assumption that these systems are realisable, I'm aiming to understand the arguments concluding that there are substantial risks in the near and long-term in developing Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI), as well as the theoretical work that has been done to formulate strategies for the development of safe such systems (AGI, ASI), and how we can mitigate risks related to the development and proliferation of such systems. Additionally, assuming we find a way to safely enough navigate the development and integration of such systems into society - what could such a world look like? Lastly I'm interested in better understanding the cognitive and psychological (from a behavioral perspective) aspects related to effective conveying and acceptance of mis-, dis- and malinformation and conspiratioral thinking, especially in relation to the fields of new technology and healthcare.
    
 ---
 
 ## Where to find more {#find-more}
 
 **CV & publication list**:  
-  My full CV, including a complete publication list, is available here: https://inamek.github.io/index.md
+  My full CV, including a complete publication list, is available here: https://inamek.github.io/index
 
 ---
-If you’re interested in any of the above – whether from a clinical, research, or AI/safety angle – feel free to reach out.
+If you’re interested in any of the above – whether from a clinical, research, or AI/safety angle – feel free to reach out (mike.kemani.2@ki.se).
