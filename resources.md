@@ -63,14 +63,15 @@ A collection of links to resources I find useful or interesting.
 ## Websites {#websites}
 
 <b>AI Companies</b><br>
+**<i>The major players</i>**<br>
 <a href="https://deepmind.google">Google Deep Mind</a><br>
 <a href="https://www.anthropic.com/">Anthropic</a><br>
 <a href="https://openai.com/sv-SE/">OpenAI</a><br>
 <a href="https://ai.meta.com/">Meta AI</a><br>
 <a href="https://x.ai/">X AI</a>
 
-<b>Focusing on AI safety</b><br>
-<a href="https://www.conjecture.dev/">Conjecture (Connor Leahy)</a><br>
+***<i>Focusing on AI safety</i><br>
+***<a href="https://www.conjecture.dev/">Conjecture (Connor Leahy)</a><br>***
 <a href="https://ssi.inc/">Safe Superintelligence (Ilya Sutskever)</a>
 
 <b>People</b><br>
