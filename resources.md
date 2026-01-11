@@ -99,7 +99,8 @@ A collection of links to resources I find useful or interesting.
 <i>If Anyone Builds it Everyone Dies</i>, Eliezer Yudkowski and Nate Soares: <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a><br>
 <i>Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI</i>, Karen Hao: <a href="https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=rae_2">Goodreads</a><br>
 <i>The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future</i>, Keach Hagey: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
-<i>Artificial Intelligence: A Guide for Thinking Humans</i>, Melanie Mitchell: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
+<i>Artificial Intelligence: A Guide for Thinking Humans</i>, Melanie Mitchell: <a href="https://www.goodreads.com/search?q=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans&ref=nav_sb_noss_l_52">Goodreads</a><br>
+<i>Superintelligence: Paths, Dangers, Strategies</i>, Nick Bostrom: <a href="https://www.goodreads.com/book/show/20527133-superintelligence?from_search=true&from_srp=true&qid=9ESlhnWs2T&rank=1">Goodreads</a><br>
 
 ## Writings {#writings}
 
