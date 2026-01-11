@@ -133,7 +133,7 @@ I am a licensed psychologist and clinical researcher. I currently work at the Ka
 
 After finishing my doctoral thesis, on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain, my research has centred on: the psychometric evaluations of self-report questionnaires related to chronic pain; the evaluation of behavioural and digital behavioural interventions in clinical settings; projects evaluating aspects of health, psychological factors among healthcare personnel, as well as the relationships between individual factors and symptoms in Post COVID-19, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
 
-Currently I'm exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of learning and artificial intelligence. As a side quest, I'm also exploring potential research gaps in the field of conspiracy theories/conspiratorial thinking in healthcare and wellness.
+Currently, I'm exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of learning and artificial intelligence. As a side quest, I'm also exploring potential research gaps in the field of conspiracy theories/conspiratorial thinking in healthcare and wellness.
 
 ---
 
@@ -253,11 +253,11 @@ Docent, 2024-08-28
 ## Research supervision {#supervision}
 
 **Ongoing PhD supervision, serving as co-supervisor**  
-R Hanafi: Date of registration, 2021/02/11, Department of Health Promoting Science, Sophiahemmet University Stockholm. Title of doctoral project: *Get B@ck - a person-centred prehabilitation program for the most vulnerable patients planned for lumbar spine surgery*. Half time seminar: 2024/02/15. Main Supervisor: M Lundberg Department of Health Promoting Science, Sophiahemmet University Stockholm.
+R Hanafi: Date of registration, 2021/02/11, Department of Health Promoting Science, Sophiahemmet University, Stockholm. Title of doctoral project: *Get B@ck - a person-centred prehabilitation program for the most vulnerable patients planned for lumbar spine surgery*. Half-time seminar: 2024/02/15. Main Supervisor: M Lundberg, Department of Health Promoting Science, Sophiahemmet University, Stockholm.
 
-M gyllenhammar: Date of registration, 2022/11/10, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet. Title of doctoral project: *Evaluation of a Psychological Intervention Tailored for Patients with Early Cognitive Impairment*. Main Supervisor: U Ekman, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet.
+M Gyllenhammar: Date of registration, 2022/11/10, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet. Title of doctoral project: *Evaluation of a Psychological Intervention Tailored for Patients with Early Cognitive Impairment*. Main Supervisor: U Ekman, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet.
 
-**PhD candidates supervised to thesis defence, serving as co-supervisor**  
+**PhD candidates supervised for thesis defence, serving as co-supervisor**  
 U Wallbing: Date of thesis defence, 2022/09/09, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Thesis title: *Help Overcoming Pain Early (HOPE) - a person-centred intervention for adolescents with chronic pain in a school setting*. Main Supervisor: S Nilsson, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Link to dissertation: <https://hdl.handle.net/2077/71514>
 
 J Åström: Date of thesis defence, 2022/06/14, Department of Clinical Neurosience, Karolinska Institutet. Thesis title: *Psychological factors, sickness behavior and inflammatory biomarkers in longstanding pain*. Main Supervisor: R Wicksell, Department of Clinical Neurosience, Karolinska Institutet. Link to dissertation <https://hdl.handle.net/10616/48067>
