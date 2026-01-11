@@ -63,7 +63,7 @@ A collection of links to resources I find useful or interesting.
 
 ## Websites {#websites}
 
-**AI Companies**<br>
+**AI companies**<br>
 ***The major players***<br>
 <a href="https://www.anthropic.com/">Anthropic (Board of directors, Dario Amodei, Daniela Amodei, Yasmin Razavi, Jay Kreps, and Reed Hastings)</a><br>
 <a href="https://deepmind.google">Google Deep Mind (CEO, Demis Hassabis)</a><br>
@@ -71,7 +71,7 @@ A collection of links to resources I find useful or interesting.
 <a href="https://openai.com/sv-SE/">OpenAI (CEO, Sam Altman)</a><br>
 <a href="https://x.ai/">xAI (CEO Elon Musk)</a>
 
-***Companies Focusing Specifically on AI safety***<br>
+***Companies focusing specifically on AI safety***<br>
 <a href="https://www.conjecture.dev/">Conjecture (Connor Leahy)</a><br>
 <a href="https://ssi.inc/">Safe Superintelligence (Ilya Sutskever)</a><br>
 
