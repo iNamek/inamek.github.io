@@ -77,7 +77,7 @@ A collection of links to resources I find useful or interesting.
 **People**<br>
 <a href="https://mila.quebec/en/directory/yoshua-bengio">Yoshua Bengio</a><br>
 <a href="https://nickbostrom.com/">Nick Bostrom</a><br>
-<a href="https://consc.net/">David Chalmers</a>
+<a href="https://consc.net/">David Chalmers</a><br>
 <a href="https://paulfchristiano.com/">Paul Christiano</a><br>
 
 
