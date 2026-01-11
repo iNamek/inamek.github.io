@@ -81,7 +81,7 @@ A collection of links to resources I find useful or interesting.
 <a href="https://consc.net/">David Chalmers</a><br>
 <a href="https://paulfchristiano.com/">Paul Christiano</a><br>
 
-## Forums & communities {#forums}
+## Forums & Communities {#forums}
 <a href="https://www.alignmentforum.org/">Aligment Forum</a><br>
 <a href="https://www.astralcodexten.com/">Astral Codex ten (Scott Alexander)</a><br>
 <a href="https://www.lesswrong.com/">Less Wrong</a><br>
