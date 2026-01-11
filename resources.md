@@ -64,21 +64,23 @@ A collection of links to resources I find useful or interesting.
 
 **AI Companies**<br>
 ***The major players***<br>
-<a href="https://deepmind.google">Google Deep Mind</a><br>
-<a href="https://www.anthropic.com/">Anthropic</a><br>
-<a href="https://openai.com/sv-SE/">OpenAI</a><br>
-<a href="https://ai.meta.com/">Meta AI</a><br>
-<a href="https://x.ai/">X AI</a>
+<a href="https://www.anthropic.com/">Anthropic (Board of directors, Dario Amodei, Daniela Amodei, Yasmin Razavi, Jay Kreps, and Reed Hastings)</a><br>
+<a href="https://deepmind.google">Google Deep Mind (CEO, Demis Hassabis)</a><br>
+<a href="https://ai.meta.com/">Meta AI (CEO, Mark Zuckerberg)</a><br>
+<a href="https://openai.com/sv-SE/">OpenAI (CEO, Sam Altman)</a><br>
+<a href="https://x.ai/">xAI (CEO Elon Musk)</a>
 
-***Focusing on AI safety***<br>
+***Companies Focusing Specifically on AI safety***<br>
 <a href="https://www.conjecture.dev/">Conjecture (Connor Leahy)</a><br>
 <a href="https://ssi.inc/">Safe Superintelligence (Ilya Sutskever)</a><br>
 
 **People**<br>
 <a href="https://mila.quebec/en/directory/yoshua-bengio">Yoshua Bengio</a><br>
-<a href="https://paulfchristiano.com/">Paul Christiano</a><br>
 <a href="https://nickbostrom.com/">Nick Bostrom</a><br>
 <a href="https://consc.net/">David Chalmers</a>
+<a href="https://paulfchristiano.com/">Paul Christiano</a><br>
+
+
 
 ## Podcasts {#podcasts}
 <a href="https://open.spotify.com/show/2Op1WO3gwVwCrYHg4eoGyP?si=137b39f2cd694d0f">Future of Life Institute Podcast</a>
