@@ -1,4 +1,4 @@
-e<style>
+<style>
   /* --- Global site-wide nav (CV · About · Links & resources) --- */
   .site-nav {
     position: sticky;
