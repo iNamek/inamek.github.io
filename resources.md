@@ -48,7 +48,8 @@
 
 <nav class="page-nav">
   Resources menu:
-   <a href="#websites">Websites</a> ·
+  <a href="#websites">Websites</a> ·
+  <a href="#forums">Forums & Communities</a> ·
   <a href="#podcasts">Podcasts</a> ·
   <a href="#books">Books</a> ·
   <a href="#writings">Writings</a>
@@ -80,7 +81,7 @@ A collection of links to resources I find useful or interesting.
 <a href="https://consc.net/">David Chalmers</a><br>
 <a href="https://paulfchristiano.com/">Paul Christiano</a><br>
 
-## Forums and communities
+## Forums & communities {#forums}
 <a href="https://www.alignmentforum.org/">Aligment Forum</a><br>
 <a href="https://www.astralcodexten.com/">Astral Codex ten</a><br>
 <a href="https://https://www.lesswrong.com/">Less Wrong</a><br>
@@ -97,7 +98,6 @@ A collection of links to resources I find useful or interesting.
 <i>The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective</i>, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
 <i>Conspiracy: Why the Rational Believe the Irrational</i>, Michael Shermer: <a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
 <i>Reality+: Virtual Worlds and the Problems of Philosophy</i>, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
-
 
 **Read**<br>
 <i>AI: Unexplainable, Unpredictable, Uncontrollable</i>, Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
