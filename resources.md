@@ -88,7 +88,7 @@ A collection of links to resources I find useful or interesting.
 <a href="https://www.overcomingbias.com/">Overcoming Bias (Robin Hanson)</a><br>
 <a href="https://lethalintelligence.ai/">A site covering the lethal dangers of upcoming Autonomous and General
 Artificial Intelligence systems (AGI)</a><br>
-<a href="https://safe.ai/">Centre for AI Safety (CAIS)</a><br>
+<a href="https://safe.ai/">Center for AI Safety (CAIS)</a><br>
 <a href="https://pauseai.se/xrisk">Ideell organisation som syftar till att mildra riskerna med AI)</a><br>
 
 ## Podcasts {#podcasts}
