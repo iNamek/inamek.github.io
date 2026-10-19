@@ -53,6 +53,7 @@
   <a href="#forums">Forums & Communities</a> ·
   <a href="#podcasts">Podcasts</a> ·
   <a href="#writings">Writings</a> ·
+  <a href="#blogs">Blogs</a> ·
   <a href="#learning">Courses and learning resources</a> ·
 </nav>
 
@@ -101,6 +102,10 @@ A collection of links to resources I find useful or interesting.
 <a href="https://www.darioamodei.com/essay/the-adolescence-of-technology">The Adolescence of Technology; Dario Amodei</a><br>
 <a href="https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/">Child’s Play - Tech’s new generation and the end of thinking; Sam Kriss</a><br>
 <a href="https://gwern.net/doc/ai/nn/1993-olazaran.pdf">A Sociological History of the Neural Network Controversy; Mikel Olazaran</a><br>
+
+## Blogs on AI {#blogs}
+<a href="https://aiguide.substack.com/?utm_source=homepage_recommendations&utm_campaign=1940878">AI: A Guide for Thinking Humans; Melanie Mitchell</a><br>
+<a href="https://www.aipanic.news/">AI Panic; Nirit Weiss-Blatt</a><br>
 
 ## Courses and learning resources {#learning}
 
