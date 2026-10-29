@@ -55,7 +55,7 @@
 
 ## Books {#books}
 
-Currently reading<br>
+<b>Currently reading</b><br>
 Doing Good Better: How Effective Altruism Can Help You Make a Difference, William MacAskill: <a href="https://www.goodreads.com/book/show/23398748-doing-good-better?ref=rae_0">Goodreads</a><br>
 from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
 Conspiracy: Why the Rational Believe the Irrational, Michael Shermer: <a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
