@@ -73,7 +73,7 @@ I work at **Karolinska University Hospital** as an operations developer, focusin
   - **Internet-based Acceptance and Commitment Therapy(ACT)** for longstanding pain in youth (doctoral project).
     - Including digital Pain Science Education (PSE) based on **Question Based Learning (QBL)**.
   - **AI-supported** and app-based stroke rehabilitation (doctoral project).
-  - Acceptance & Commitment Therapy for **Subjective Cognitive Decline (SCD)**.
+  - Acceptance & Commitment Therapy for **Subjective Cognitive Decline (SCD)** (doctoral project).
 
 ---
 
