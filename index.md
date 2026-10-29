@@ -149,7 +149,7 @@ Currently, I'm exploring a move towards research on applied clinical AI-based so
 ## Current position {#current-position}
 
 **2025-03-01-**  
-Operations developer, clinical digitalization (verksamhetsutvecklare, klinisk digitalisering), Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
+Operations developer, clinical AI and digitalization (verksamhetsutvecklare, AI och klinisk digitalisering), Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
 
 ---
 
@@ -387,6 +387,13 @@ J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosien
       </tr>
     </thead>
     <tbody>
+        <tr>
+        <td data-label="Funder">Vetenskapsrådet</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Get Back - A Digital, Person-Centred Rehabilitation Program to Increase Daily Steps After Surgery for Lumbar Spinal Stenosis</td>
+        <td data-label="SEK">3.000.000</td>
+        <td data-label="Year">2026</td>
+      </tr>
       <tr>
         <td data-label="Funder">Regionala FoU-medel Västra Götalandsregionen</td>
         <td data-label="PI/Co-applicant">Co-applicant</td>
