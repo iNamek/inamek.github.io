@@ -392,6 +392,13 @@ J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosien
         <td data-label="SEK">3.000.000</td>
         <td data-label="Year">2026</td>
       </tr>
+        <tr>
+        <td data-label="Funder">Region Stockholm</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Utvärdering av en nyutvecklad psykologisk behandling för personer med kognitiv svikt i tidiga skeden - fortsättningsansökan</td>
+        <td data-label="SEK">1.500.000</td>
+        <td data-label="Year">2025</td>
+      </tr>
       <tr>
         <td data-label="Funder">Regionala FoU-medel Västra Götalandsregionen</td>
         <td data-label="PI/Co-applicant">Co-applicant</td>
