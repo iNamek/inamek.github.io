@@ -278,11 +278,9 @@ J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosien
 - Sum JIF: 78.9
 
 ### In manuscript
-1. <B>Kemani M</B>, Holmström L, Gentili C, Rydvik E, Nygren-Bonnier, M, Bragesjö, M. Psychological factors, insomnia and burnout in healthcare personnel in the wake of COVID-19 – a longitudinal observational study 
+1. <B>Kemani M</B>, Gentili C, Holmström L, Rydwik E, Oksanen A, Nygren-Bonnier M, Bragesjö M. Psychological symptoms, insomnia and burnout in hospital personnel over one year during the COVID-19 pandemic: a single-center longitudinal latent class study
 
-2. Hanafi R, Karlsson E, <B>Kemani M</B>, Lundberg M. Exploring patient-specific outcomes in lumbar fusion surgery.
-
-3. Åström J, <B>Kemani M</B>, Ekman U. Taking pain into consideration in patients with Post COVID-19 - its relation to daily functioning and patient sub-groups.
+2. Åström J, <B>Kemani M</B>, Ekman U. Taking pain into consideration in patients with Post COVID-19 - its relation to daily functioning and patient sub-groups.
 
 ### Under Review
 1. Liljebo T, Norlin A-K, <B>Kemani MK</B>, Jonsjö M, Schmidt PT, Lindfors PJ, Störsrud, Andreasson A. Nutrient intake, diets and supplement use, gastrointestinal symptoms and fatigue: A cross-sectional study comparing patients with persistent fatigue to patients with IBS and non-fatigued controls.
@@ -370,7 +368,7 @@ J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosien
    
 2. Evaluation of an internet-delivered exposure-based psychological intervention for youth and their caregivers - a three-arm randomized controlled trial (collaborator)
 
-3. A feasibility study of an Exposure-based psychological intervention for adolescents with BII-phobia - a non-randomized longitudinal study (principal investigator)
+3. 
 
 ---
 ## Research funding {#research-funding}
