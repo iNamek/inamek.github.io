@@ -60,24 +60,26 @@
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
 
-I work at **Karolinska University Hospital** as an operations developer, focusing on the implementation of clinical AI and digitalization. Also, I have a research affiliation at the Department of Clinical Neuroscience at <a href="https://ki.se/en/people/mike-kemani">**Karolinska Institutet**</a>. I have a background as a manager in healthcare, focusing on the application and implementation of psychological assessment and intervention within healthcare. I also have a research background in the field of behavioral medicine, and the management of chronic pain. Currently, I'm exploring how I can deepen my understanding of AI safety AI Ethics and contribute to **the mitigation of AI risk**. 
+I work at **Karolinska University Hospital** as an operations developer, focusing on the implementation of clinical AI and digitalization. Also, I have a research affiliation at the Department of Clinical Neuroscience at <a href="https://ki.se/en/people/mike-kemani">**Karolinska Institutet**</a>. I have a background as a manager in healthcare, focusing on the application and implementation of psychological assessment and intervention within healthcare. I also have a research background in the field of behavioral medicine, and the management of chronic pain. Currently, I'm exploring how I can deepen my understanding of AI safety AI ethics and contribute to **the mitigation of AI risk**. 
 
 ---
 
 ## What I do {#what}
 
 **Clinical AI and digitalisation**  
-  - I support and facilitate the development, implementation, and evaluation of **clinical AI and digital applications and workflows** at Karolinska University Hospital. For example, this includes contributing to the implementation of AI medical scribes, the digitalization of neurpsychological assessment and Patient Reported Outcome Measures.
+  - I support and facilitate the development, implementation, and evaluation of **clinical AI and digital applications and workflows** at Karolinska University Hospital. For example, this includes contributing to the implementation of AI medical scribes, the digitalization of neuropsychological assessment and Patient Reported Outcome Measures.
 
 **Ongoing research**  
   - Internet-based Acceptance and Commitment Therapy (ACT) for longstanding pain in youth.  
-  - Digital Pain Science Education based on **Question Based Learning**.
+  - Digital Pain Science Education based on **Question Based Learning (QBL)**.
   - **AI-supported** and app-based stroke rehabilitation.
 
 ---
 
 ## What I’m currently exploring {#curios-about} 
-Under the assumption that these systems are realizable, I'm aiming to understand the arguments concluding that there are substantial risks in the near and long-term in developing Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI), as well as the theoretical work that has been done to formulate strategies for the development of safe such systems (AGI, ASI), and how we can mitigate risks related to the development and proliferation of such systems. Additionally, assuming we find a way to safely navigate the development and integration of such systems into society, what could such a world look like?
+I'm aiming to understand the arguments for and against existential risk from AI in the near and long-term in developing general, capable autonomous AI. Even though I do not have a technical background, I'm interested in acquiring a relevant and more overarching understanding of different AI architectures and the challenges and possibilities of the alignment of systems, based on these architectures, with human values. But also, how we can mitigate risks from AI while balancing the need to further develop these systems to help us address the challenges humanity is facing.
+
+Additionally, assuming we find a way to safely navigate the development and integration of such systems into society. How should we view such powerful systems, both in their digital and embodied states? For example, should they be granted moral agency, or patienthood? Should they have obligations, should they be granted rights. IF we can make things go well. What would such a world look like?
    
 ---
 
@@ -87,4 +89,4 @@ Under the assumption that these systems are realizable, I'm aiming to understand
   My full CV, including a complete publication list, is available here: <https://inamek.github.io/index>.
 
 ---
-If you’re interested in any of the above – whether from a digitalization, research, or AI-safety angle – feel free to reach out (<mike.kemani@ki.se> [research]; <mike.kemani@regionstockholm.se> [work]; <mikekemani@gmail.se> [private]).
+If you’re interested in any of the above – whether from a <a href="mike.kemani@regionstockholm.se">digitalization, research, or AI-safety angle – feel free to reach out (<mike.kemani@ki.se> [research]; <mike.kemani@regionstockholm.se> [work]; <mikekemani@gmail.se> [private]).
