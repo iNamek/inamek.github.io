@@ -368,7 +368,7 @@ J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosien
    
 2. Evaluation of an internet-delivered exposure-based psychological intervention for youth and their caregivers - a three-arm randomized controlled trial (collaborator)
 
-3. 
+3. Digital Pain Science Education (PSE) based on Question Based Learning (QBL) - a co-creation study.
 
 ---
 ## Research funding {#research-funding}
