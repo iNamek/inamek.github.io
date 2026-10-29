@@ -130,7 +130,7 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani@ki.se (research)
 
 ## About {#about}
 
-I am a licensed psychologist and clinical researcher. I currently work at the Karolinska University Hospital, where I support the implementation of clinical AI tools and digital solutions as part of the organization’s digital transformation. I also have extensive leadership experience from managerial roles at Karolinska University Hospital, as well as clinical experience providing Acceptance and Commitment Therapy in healthcare settings, particularly in relation to chronic pain.
+I am a licensed psychologist and clinical researcher. I currently work as an operations developer at the Karolinska University Hospital, where I support the implementation of clinical AI tools and digital solutions as part of the organization’s digital transformation. I also have extensive leadership experience from managerial roles at Karolinska University Hospital, as well as clinical experience providing Acceptance and Commitment Therapy in healthcare settings, particularly in relation to chronic pain.
 
 After finishing my doctoral thesis, on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain in adults, my research has centred on: the psychometric evaluations of self-report questionnaires related to chronic pain; the evaluation of behavioural and digital behavioural interventions in clinical settings; projects evaluating aspects of health, psychological factors among healthcare personnel, as well as the relationships between individual factors and symptoms in Post COVID-19, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
 
