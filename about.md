@@ -78,7 +78,7 @@ I work at **Karolinska University Hospital** as an operations developer, focusin
 ---
 
 ## What I’m currently exploring {#curios-about} 
-I'm aiming to understand the arguments for and against existential risk from AI in the near and long-term in developing general, capable autonomous AI. Even though I do not have a technical background, I'm interested in acquiring a relevant and more overarching understanding of different AI architectures and the challenges and possibilities of the alignment of systems, based on these architectures, with human values. But also, how we can mitigate risks from AI while balancing the need to further develop these systems to help us address the challenges humanity is facing.
+I'm aiming to understand the arguments for and against existential risk from AI in the near and long-term in developing general, capable autonomous AI. Even though I do not have a technical background, I'm interested in acquiring a relevant and more overarching understanding of different AI architectures and the challenges and possibilities of the alignment of systems, based on these architectures, with human values. But also, how we can mitigate risks from AI while balancing the need to responsibly further develop and implement these systems to help us address the challenges humanity is facing.
 
 Additionally, assuming we find a way to safely navigate the development and integration of such systems into society. How should we view such powerful systems, both in their digital and embodied states? For example, should they be granted moral agency, or patienthood? Should they have obligations, should they be granted rights. If we can make things go well. What would such a world look like?
    
