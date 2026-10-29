@@ -62,7 +62,8 @@ Conspiracy: Why the Rational Believe the Irrational, Michael Shermer: <a href="h
 Reality+: Virtual Worlds and the Problems of Philosophy, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
 
 <b>Read</b><br>
-The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?The Precipice, Existential Risk and the Future of Humanity, Toby Ord: <a href="https://www.goodreads.com/sv/book/show/50485582-the-precipice">Goodreads</a>; <a href="https://www.tobyord.com/writing/the-precipice-revisited">Official Book Site, with updates and resources</a><br>
+The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?</a><br>
+The Precipice, Existential Risk and the Future of Humanity, Toby Ord: <a href="https://www.goodreads.com/sv/book/show/50485582-the-precipice">Goodreads</a>; <a href="https://www.tobyord.com/writing/the-precipice-revisited">Official Book Site, with updates and resources</a><br>
 Human Compatible: Artificial Intelligence and the Problem of Control, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
 Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World, Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
 AI: Unexplainable, Unpredictable, Uncontrollable, Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
