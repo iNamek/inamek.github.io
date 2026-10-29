@@ -60,7 +60,7 @@
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
 
-I work at **Karolinska University Hospital** as an operations developer, focusing on clinical digitalization. Also, I have a research affiliation at <a href="https://ki.se/en/people/mike-kemani-2">**Karolinska Institutet**</a>. My background encompasses leadership in healthcare, including the application and implementation of clinical psychology within healthcare, research in the field of behavioral medicine, and the management of chronic pain. These days, I split my time between **clinical digitalization**, **research**, and explorations of how I can contribute towards **AI safety and ways to mitigate AI risk**.
+I work at **Karolinska University Hospital** as an operations developer, focusing on the implementation of clinical AI and digitalization. Also, I have a research affiliation at the Department of Clinical Neuroscience at <a href="https://ki.se/en/people/mike-kemani-2">**Karolinska Institutet**</a>. I have a background as a manager in healthcare, focusing on the application and implementation of psychological assessment and intervention within healthcare. I also have a research background in the field of behavioral medicine, and the management of chronic pain. Currently, I'm exploring how I can deepen my understanding of AI safety AI Ethics and contribute to **the mitigation of AI risk**. 
 
 ---
 
