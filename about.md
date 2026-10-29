@@ -60,20 +60,19 @@
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
 
-I work at **Karolinska University Hospital** as an operations developer, focusing on the implementation of clinical AI and digitalization. Also, I have a research affiliation at the Department of Clinical Neuroscience at <a href="https://ki.se/en/people/mike-kemani-2">**Karolinska Institutet**</a>. I have a background as a manager in healthcare, focusing on the application and implementation of psychological assessment and intervention within healthcare. I also have a research background in the field of behavioral medicine, and the management of chronic pain. Currently, I'm exploring how I can deepen my understanding of AI safety AI Ethics and contribute to **the mitigation of AI risk**. 
+I work at **Karolinska University Hospital** as an operations developer, focusing on the implementation of clinical AI and digitalization. Also, I have a research affiliation at the Department of Clinical Neuroscience at <a href="https://ki.se/en/people/mike-kemani">**Karolinska Institutet**</a>. I have a background as a manager in healthcare, focusing on the application and implementation of psychological assessment and intervention within healthcare. I also have a research background in the field of behavioral medicine, and the management of chronic pain. Currently, I'm exploring how I can deepen my understanding of AI safety AI Ethics and contribute to **the mitigation of AI risk**. 
 
 ---
 
 ## What I do {#what}
 
-**Clinical digitalisation**  
-  - I support and facilitate the development, implementation, and evaluation of **digital and hybrid clinical solutions and workflows** at Karolinska University Hospital. This includes the digitalization of assessment procedures and interventions provided by healthprofessionals.
+**Clinical AI and digitalisation**  
+  - I support and facilitate the development, implementation, and evaluation of **clinical AI and digital applications and workflows** at Karolinska University Hospital. For example, this includes contributing to the implementation of AI medical scribes, the digitalization of neurpsychological assessment and Patient Reported Outcome Measures.
 
-**Research**  
+**Ongoing research**  
   - Internet-based Acceptance and Commitment Therapy (ACT) for longstanding pain in youth.  
-  - Studies on **ME/CFS** and **post-COVID-19 condition**, including symptom profiles, and rehabilitation.
-  - Studies related to **rehabiliation in lumbar fusion surgery**.
-  - Moving toward research on the development and evaluation of **applied AI-based solutions** in the healthcare context, **AI ethics** and **non-technical AI safety**.
+  - Digital Pain Science Education based on **Question Based Learning**.
+  - **AI-supported** and app-based stroke rehabilitation.
 
 ---
 
@@ -88,4 +87,6 @@ Under the assumption that these systems are realizable, I'm aiming to understand
   My full CV, including a complete publication list, is available here: <https://inamek.github.io/index>.
 
 ---
-If you’re interested in any of the above – whether from a digitalization, research, or AI-safety angle – feel free to reach out (<mike.kemani@ki.se>).
+If you’re interested in any of the above – whether from a digitalization, research, or AI-safety angle – feel free to reach out (Research: <mike.kemani@ki.se>).
+(Work: <mike.kemani@regionstockholm.se>)
+(Private: <mikekemani@gmail.se>)
