@@ -87,6 +87,4 @@ Under the assumption that these systems are realizable, I'm aiming to understand
   My full CV, including a complete publication list, is available here: <https://inamek.github.io/index>.
 
 ---
-If you’re interested in any of the above – whether from a digitalization, research, or AI-safety angle – feel free to reach out (Research: <mike.kemani@ki.se>).
-(Work: <mike.kemani@regionstockholm.se>)
-(Private: <mikekemani@gmail.se>)
+If you’re interested in any of the above – whether from a digitalization, research, or AI-safety angle – feel free to reach out ( <mike.kemani@ki.se>[research];<mike.kemani@regionstockholm.se>[work]; <mikekemani@gmail.se>[private])
