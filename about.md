@@ -82,7 +82,7 @@ Currently, I’m exploring how I can deepen my understanding of **AI safety, AI 
 ---
 
 ## What I’m currently exploring {#curios-about} 
-I'm aiming to understand the arguments for and against existential risk from AI in the near and long-term in developing general, capable autonomous AI. Even though I do not have a technical background, I'm interested in acquiring a more overarching (with relevant depth) technical understanding of different AI architectures and the challenges and possibilities of the alignment of systems with human values, based on these architectures. 
+I'm aiming to understand the arguments for and against existential risk from AI in the near and long-term in developing general, capable autonomous AI. Even though I do not have a technical background, I'm interested in acquiring a more overarching technical understanding of different AI architectures (with relevant depth) and the challenges and possibilities of technical AI alignment (with human values), based on these architectures. 
 
 I also want to understand and contribute to how we can mitigate risks from powereful AI, while balancing the need to responsibly further develop and implement these systems to help us address the challenges humanity is facing.
 
