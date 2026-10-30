@@ -95,7 +95,7 @@
   My pages:
   <a href="/about">About</a> ·
   <a href="/resources">Resources</a> ·
-  <a href="/reading">Reading</a> ·
+  <a href="/Learning">Learning</a> ·
   <a href="/">CV</a>
 </nav>
 
