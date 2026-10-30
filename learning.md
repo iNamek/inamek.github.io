@@ -53,6 +53,8 @@
   <a href="#reviews">Reviews</a> ·
 </nav>
 
+# Learning
+
 ## Books {#books}
 
 <b>Currently reading</b><br>
