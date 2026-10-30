@@ -71,6 +71,8 @@
 - Reality+: Virtual Worlds and the Problems of Philosophy, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
 
 <b>Read (2023-2026; non-fiction)</b><br>
+- More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity, Adam Becker: <a href="https://www.goodreads.com/book/show/212987932-more-everything-forever?ref=re_book_title">Goodreads</a><br>
+- These Strange New Minds: How AI Learned to Talk and What It Means, Christopher Summerfield: <a href="https://www.goodreads.com/book/show/208999883-these-strange-new-minds#CommunityReviews">Goodreads</a><br>
 - The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning">Goodreads</a><br>
 - The Precipice, Existential Risk and the Future of Humanity, Toby Ord: <a href="https://www.goodreads.com/sv/book/show/50485582-the-precipice">Goodreads</a>; <a href="https://www.tobyord.com/writing/the-precipice-revisited">Official Book Site, with updates and resources</a><br>
 - Human Compatible: Artificial Intelligence and the Problem of Control, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
