@@ -57,7 +57,7 @@
 
 # About me {#about}
 
-**Associate professor (Docent), licensed clinical psychologist, PhD**  
+**Associate professor (docent), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
 
 I work at **Karolinska University Hospital** as an operations developer (verksam,hetsutvecklare), focusing on the implementation of clinical AI and digitalization. 
