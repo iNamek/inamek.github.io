@@ -55,7 +55,7 @@
 
 # Learning
 
-## Books {#books}
+## Courses {#books}
 
 <b>Current courses</b><br>
 - AI Ethics <a href="https://liu.se/en/education/course/721g28">Ethics of Artificial Intelligence, 7.5 credits</a><br>
