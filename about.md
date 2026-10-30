@@ -67,20 +67,22 @@ I work at **Karolinska University Hospital** as an operations developer, focusin
 ## What I do {#what}
 
 **Clinical AI and digitalisation**  
-  - I support and facilitate the development, implementation, and evaluation of **clinical AI and digital applications and workflows** at Karolinska University Hospital. For example, this includes contributing to the implementation of AI medical scribes, the digitalization of neuropsychological assessment and Patient Reported Outcome Measures.
+  - I support and facilitate the implementation of **clinical AI and digital applications and workflows** at Karolinska University Hospital. For example, this includes contributing to the implementation of AI medical scribes, the digitalization of neuropsychological assessment and Patient Reported Outcome Measures.
 
 **Ongoing research**  
   - **Internet-based Acceptance and Commitment Therapy(ACT)** for longstanding pain in youth (doctoral project).
-    - Including digital Pain Science Education (PSE) based on **Question Based Learning (QBL)**.
+    - Including the co-creation of digital Pain Science Education (PSE) based on **Question Based Learning (QBL)**.
   - **AI-supported** and app-based stroke rehabilitation (doctoral project).
   - Acceptance & Commitment Therapy for **Subjective Cognitive Decline (SCD)** (doctoral project).
 
 ---
 
 ## What I’m currently exploring {#curios-about} 
-I'm aiming to understand the arguments for and against existential risk from AI in the near and long-term in developing general, capable autonomous AI. Even though I do not have a technical background, I'm interested in acquiring a relevant and more overarching understanding of different AI architectures and the challenges and possibilities of the alignment of systems, based on these architectures, with human values. But also, how we can mitigate risks from AI while balancing the need to responsibly further develop and implement these systems to help us address the challenges humanity is facing.
+I'm aiming to understand the arguments for and against existential risk from AI in the near and long-term in developing general, capable autonomous AI. Even though I do not have a technical background, I'm interested in acquiring a more overarching (with relevant depth) technical understanding of different AI architectures and the challenges and possibilities of the alignment of systems with human values, based on these architectures. 
 
-Additionally, assuming we find a way to safely navigate the development and integration of such systems into society. How should we view such powerful systems, both in their digital and embodied states? For example, should they be granted moral agency, or patienthood? Should they have obligations, should they be granted rights. If we can make things go well. What would such a world look like?
+I also want to understand and contribute to how we can mitigate risks from powereful AI, while balancing the need to responsibly further develop and implement these systems to help us address the challenges humanity is facing.
+
+Additionally, assuming we find a way to safely navigate the development and integration of such systems into society. How should we view such powerful systems, both in their digital and embodied states? For example, should they be granted moral agency, or patienthood? Should they have obligations? Should they be granted rights? If we can make things go well. what would such a world look like?
    
 ---
 
