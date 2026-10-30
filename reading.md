@@ -56,22 +56,22 @@
 ## Books {#books}
 
 <b>Currently reading</b><br>
-Doing Good Better: How Effective Altruism Can Help You Make a Difference, William MacAskill: <a href="https://www.goodreads.com/book/show/23398748-doing-good-better?ref=rae_0">Goodreads</a><br>
-Conspiracy: Why the Rational Believe the Irrational, Michael Shermer: <a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
-Reality+: Virtual Worlds and the Problems of Philosophy, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
+- Doing Good Better: How Effective Altruism Can Help You Make a Difference, William MacAskill: <a href="https://www.goodreads.com/book/show/23398748-doing-good-better?ref=rae_0">Goodreads</a><br>
+- Conspiracy: Why the Rational Believe the Irrational, Michael Shermer: <a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
+- Reality+: Virtual Worlds and the Problems of Philosophy, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
 
 <b>Read</b><br>
- - The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning">Goodreads</a><br>
-The Precipice, Existential Risk and the Future of Humanity, Toby Ord: <a href="https://www.goodreads.com/sv/book/show/50485582-the-precipice">Goodreads</a>; <a href="https://www.tobyord.com/writing/the-precipice-revisited">Official Book Site, with updates and resources</a><br>
-Human Compatible: Artificial Intelligence and the Problem of Control, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
-Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World, Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
-AI: Unexplainable, Unpredictable, Uncontrollable, Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
-Uncontrollable: The Threat of Artificial Superintelligence and the Race to Save the World, Darren McKee: <a href="https://www.goodreads.com/book/show/202416160-uncontrollable?ref=nav_sb_ss_1_21">Goodreads</a><br>
-If Anyone Builds it Everyone Dies, Eliezer Yudkowski and Nate Soares: <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a>; <a href="https://ifanyonebuildsit.com/">Official Book Site, with resources</a><br>
-Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI, Karen Hao: <a href="https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=rae_2">Goodreads</a><br>
-The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future, Keach Hagey: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
-Artificial Intelligence: A Guide for Thinking Humans, Melanie Mitchell: <a href="https://www.goodreads.com/search?q=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans&ref=nav_sb_noss_l_52">Goodreads</a><br>
-Superintelligence: Paths, Dangers, Strategies, Nick Bostrom: <a href="https://www.goodreads.com/book/show/20527133-superintelligence?from_search=true&from_srp=true&qid=9ESlhnWs2T&rank=1">Goodreads</a><br>
+- The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning">Goodreads</a><br>
+- The Precipice, Existential Risk and the Future of Humanity, Toby Ord: <a href="https://www.goodreads.com/sv/book/show/50485582-the-precipice">Goodreads</a>; <a href="https://www.tobyord.com/writing/the-precipice-revisited">Official Book Site, with updates and resources</a><br>
+- Human Compatible: Artificial Intelligence and the Problem of Control, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
+- Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World, Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
+- AI: Unexplainable, Unpredictable, Uncontrollable, Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
+- Uncontrollable: The Threat of Artificial Superintelligence and the Race to Save the World, Darren McKee: <a href="https://www.goodreads.com/book/show/202416160-uncontrollable?ref=nav_sb_ss_1_21">Goodreads</a><br>
+- If Anyone Builds it Everyone Dies, Eliezer Yudkowski and Nate Soares: <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a>; <a href="https://ifanyonebuildsit.com/">Official Book Site, with resources</a><br>
+- Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI, Karen Hao: <a href="https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=rae_2">Goodreads</a><br>
+- The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future, Keach Hagey: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
+- Artificial Intelligence: A Guide for Thinking Humans, Melanie Mitchell: <a href="https://www.goodreads.com/search?q=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans&ref=nav_sb_noss_l_52">Goodreads</a><br>
+- Superintelligence: Paths, Dangers, Strategies, Nick Bostrom: <a href="https://www.goodreads.com/book/show/20527133-superintelligence?from_search=true&from_srp=true&qid=9ESlhnWs2T&rank=1">Goodreads</a><br>
 
 ## Reviews {#reviews}
 <a href="https://thezvi.substack.com/p/book-review-if-anyone-builds-it-everyone">Review of "If Anyone Builds it Everyone Dies" (Yudkowski & Soares, 2025); The Zvi Substack</a><br>
