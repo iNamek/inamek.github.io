@@ -49,16 +49,19 @@
 
 <nav class="page-nav">
   Reading menu:
+  <a href="#courses">Courses</a> ·
   <a href="#books">Books</a> ·
   <a href="#reviews">Reviews</a> ·
 </nav>
 
 # Learning
 
-## Courses {#books}
+## Courses {#courses}
 
 <b>Current courses</b><br>
-- AI Ethics <a href="https://liu.se/en/education/course/721g28">Ethics of Artificial Intelligence, 7.5 credits</a><br>
+- HT26 AI Ethics <a href="https://liu.se/en/education/course/721g28">Ethics of Artificial Intelligence, 7.5 credits</a><br>
+- VT27 Basics in Cybersecurity <a href="https://cybersakerhet-grund.ida.liu.se/">Cybersäkerhet - grunder och medvetenhet, 2 credits</a><br>
+- VT27 Basic in Machine Learning <a href="https://cybersakerhet-grund.ida.liu.se/">Grunderna i maskininlärning, 3 credits</a><br>
 
 ## Books {#books}
 
