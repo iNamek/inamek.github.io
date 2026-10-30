@@ -59,7 +59,7 @@
 
 # Resources
 
-A collection of links to resources I find useful or interesting.
+Under Construction! A developing collection of links to resources I find useful or interesting.
 
 ---
 
