@@ -130,7 +130,8 @@ Under Construction! A developing collection of links to resources I find useful 
 
 ***Economy & personal finance***<br>
 <a href="https://open.spotify.com/show/11ktWYpzznMCpvGtXsiYxE">Money For Couples (Ramit Sethi)</a><br>
-<a href="https://open.spotify.com/show/2l01lGyIh9xodneIV
+ Couples (Ramit Sethi)</a><br>
+<a href="https://open.spotify.com/show/2l01lGyIh9xodneIV37dD3">The Psychology of Money (Morgan Housel)</a><br>
 
 ## Miscellaneous Writings on AI {#writings}
 <a href="https://ai-2027.com/">AI 2027; Daniel Kokatajlo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
