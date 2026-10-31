@@ -87,6 +87,7 @@
 
 <b>Read (2023-2026; fiction)</b><br>
 - The Disapearers, Marlon James: <a href="https://www.goodreads.com/book/show/247031766-the-disappearers">Goodreads</a><br>
+- Red Heart, Max Harms: <a href="https://www.goodreads.com/book/show/239885125-red-heart">Goodreads</a><br>
 
 ## Reviews {#reviews}
 <a href="https://thezvi.substack.com/p/book-review-if-anyone-builds-it-everyone">Review of "If Anyone Builds it Everyone Dies" (Yudkowski & Soares, 2025); The Zvi Substack</a><br>
