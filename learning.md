@@ -85,6 +85,9 @@
 - Artificial Intelligence: A Guide for Thinking Humans, Melanie Mitchell: <a href="https://www.goodreads.com/search?q=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans&ref=nav_sb_noss_l_52">Goodreads</a><br>
 - Superintelligence: Paths, Dangers, Strategies, Nick Bostrom: <a href="https://www.goodreads.com/book/show/20527133-superintelligence?from_search=true&from_srp=true&qid=9ESlhnWs2T&rank=1">Goodreads</a><br>
 
+<b>Read (2023-2026; fiction)</b><br>
+- The Disapearers, Marlon James: <a href="https://www.goodreads.com/book/show/247031766-the-disappearers">Goodreads</a><br>
+
 ## Reviews {#reviews}
 <a href="https://thezvi.substack.com/p/book-review-if-anyone-builds-it-everyone">Review of "If Anyone Builds it Everyone Dies" (Yudkowski & Soares, 2025); The Zvi Substack</a><br>
 
