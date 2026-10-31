@@ -94,7 +94,43 @@ Under Construction! A developing collection of links to resources I find useful 
 <a href="https://incidentdatabase.ai/cite/1152/">The AI Incident Database is dedicated to indexing the collective history of harms or near harms realized in the real world by the deployment of artificial intelligence systems.</a><br>
 
 ## Podcasts {#podcasts}
-<a href="https://open.spotify.com/show/2Op1WO3gwVwCrYHg4eoGyP?si=137b39f2cd694d0f">Future of Life Institute Podcast</a>
+
+***AI safety & risk***<br>
+<a href="https://open.spotify.com/show/2HwW0U4nTGjQbqm4dZpXxD">AXRP - the AI X-risk Research Podcast (Daniel Filan)</a><br>
+<a href="https://open.spotify.com/show/012ewyJUV46EXjY2RSsgXG">The Bayesian Conspiracy (Eneasz Brodski & Steven Zuber)</a><br>
+<a href="https://open.spotify.com/show/4v2mFQwcDa8vQvCnYceCfs">Doom Debates (Liron Shapira)</a><br>
+<a href="https://open.spotify.com/show/7aa36bNr6gzS22uUfZep1V">For Humanity: An AI Risk Podcast (John Sherman)</a><br>
+<a href="https://open.spotify.com/show/2Op1WO3gwVwCrYHg4eoGyP?si=137b39f2cd694d0f">Future of Life Institute Podcast (Gus Docker)</a><br>
+<a href="https://open.spotify.com/show/7vqBzO0ejqiLiXyTECEeBY">LessWrong (Curated & Popular)</a><br>
+
+***AI: technology, research & industry***<br>
+<a href="https://open.spotify.com/show/0mhkw4zx8ObrDc2r1zN0A1">AI Pod (Wes Roth & Dylan Curious)</a><br>
+<a href="https://open.spotify.com/show/7z6xGzWQosx3346tpscfQc">AI Sweden Podcast</a><br>
+<a href="https://open.spotify.com/show/6xwNdR1L1jtB5XP8SRx0v3">The Builders (Walter Isaacson)</a><br>
+<a href="https://open.spotify.com/show/6yHyok3M3BjqzR0VB5MSyk">The Cognitive Revolution (Nathan Labenz)</a><br>
+<a href="https://open.spotify.com/show/4JH4tybY1zX6e5hjCwU6gF">Dwarkesh Podcast (Dwarkesh Patel)</a><br>
+<a href="https://open.spotify.com/show/39fjU5Q5L5UecTCRMeqjwb">Google DeepMind: The Podcast (Hannah Fry)</a><br>
+<a href="https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT">Hard Fork (Kevin Roose & Casey Newton)</a><br>
+<a href="https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR">Machine Learning Street Talk (Tim Scarfe)</a><br>
+<a href="https://open.spotify.com/show/5Y1NyT6srGx38f5LINbH6c">Moonshots (Peter Diamandis)</a><br>
+
+***Society & long-form interviews***<br>
+<a href="https://open.spotify.com/show/2WzJwXWBDnn4iZ7odKwDib">80,000 Hours Podcast (80,000 Hours)</a><br>
+<a href="https://open.spotify.com/show/6wVeXmXdT9nh5QKiZxPSmy">The Daily (The New York Times)</a><br>
+<a href="https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX">The Diary of a CEO (Steven Bartlett)</a><br>
+<a href="https://open.spotify.com/show/3oB5noYIwEB2dMAREj2F7S">The Ezra Klein Show (Ezra Klein)</a><br>
+<a href="https://open.spotify.com/show/6bmhSFLKtApYClEuSH8q42">Interesting Times (Ross Douthat)</a><br>
+<a href="https://open.spotify.com/show/6ZAA1TZMMN2fcv2eyT0WuB">Lex Fridman Podcast (Lex Fridman)</a><br>
+
+***Philosophy & ideas***<br>
+<a href="https://open.spotify.com/show/335M69SVQoK7hWKgxe76iL">Mind Chat (Philip Goff & Keith Frankish)</a><br>
+<a href="https://open.spotify.com/show/6UmBytzR58EY4hN1jzQG2o">Philosophy Bites (David Edmonds & Nigel Warburton)</a><br>
+<a href="https://open.spotify.com/show/033SUUlFZocpDYls3H8BQj">Philosophy, Programs, and Prompts (Casey Hart & Carl Brown)</a><br>
+<a href="https://open.spotify.com/show/4gL14b92xAErofYQA7bU4e">Theories of Everything (Curt Jaimungal)</a><br>
+
+***Economy & personal finance***<br>
+<a href="https://open.spotify.com/show/11ktWYpzznMCpvGtXsiYxE">Money For Couples (Ramit Sethi)</a><br>
+<a href="https://open.spotify.com/show/2l01lGyIh9xodneIV
 
 ## Miscellaneous Writings on AI {#writings}
 <a href="https://ai-2027.com/">AI 2027; Daniel Kokatajlo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
