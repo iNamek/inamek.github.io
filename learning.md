@@ -99,7 +99,6 @@
 
 ***Psychology & related sciences***
 - The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning">Goodreads</a><br>
-- Get Off Your Cushion: Weaving Meditation into the Fabric of Life, Li-Anne Tang: <a href="https://www.goodreads.com/book/show/198971532-get-off-your-cushion">Goodreads</a><br>
 - Everything Is Predictable: How Bayesian Statistics Explain Our World, Tom Chivers: <a href="https://www.goodreads.com/book/show/199798096">Goodreads</a><br>
 - Hoppets anatomi: om förväntanseffekter och placebo, Karin Jensen: <a href="https://www.goodreads.com/book/show/61042328">Goodreads</a><br>
 - The Telomere Effect: A Revolutionary Approach to Living Younger, Healthier, Longer, Elizabeth Blackburn & Elissa Epel: <a href="https://www.goodreads.com/book/show/34458942">Goodreads</a><br>
@@ -119,7 +118,7 @@
 - Fire and Fury: Inside the Trump White House, Michael Wolff: <a href="https://www.goodreads.com/book/show/36595101">Goodreads</a><br>
 
 ***Personal, work, health & money***
-- Getting Things Done: The Art of Stress-Free Productivity, David Allen: <a href="https://www.goodreads.com/book/show/1633">Goodreads</a><br>
+- Get Off Your Cushion: Weaving Meditation into the Fabric of Life, Li-Anne Tang: <a href="https://www.goodreads.com/book/show/198971532-get-off-your-cushion">Goodreads</a><br>- Getting Things Done: The Art of Stress-Free Productivity, David Allen: <a href="https://www.goodreads.com/book/show/1633">Goodreads</a><br>
 - En liten bok om ledarskap, Stefan Söderfjäll: <a href="https://www.goodreads.com/book/show/42613279">Goodreads</a><br>
 - En liten bok om ledningsgrupper, Stefan Söderfjäll: <a href="https://www.goodreads.com/book/show/50633939">Goodreads</a><br>
 - Vem bestämmer över din tid?, Petra Brask: <a href="https://www.goodreads.com/book/show/38475551">Goodreads</a><br>
