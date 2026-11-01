@@ -73,7 +73,6 @@
 <b>Read (2018-2026; non-fiction)</b><br>
 
 ***AI-related***<br>
-jkjkhjkhjkhkjhjk
 - More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity, Adam Becker: <a href="https://www.goodreads.com/book/show/212987932-more-everything-forever?ref=re_book_title">Goodreads</a><br>
 - These Strange New Minds: How AI Learned to Talk and What It Means, Christopher Summerfield: <a href="https://www.goodreads.com/book/show/208999883-these-strange-new-minds#CommunityReviews">Goodreads</a><br>
 - The Precipice, Existential Risk and the Future of Humanity, Toby Ord: <a href="https://www.goodreads.com/sv/book/show/50485582-the-precipice">Goodreads</a>; <a href="https://www.tobyord.com/writing/the-precipice-revisited">Official Book Site, with updates and resources</a><br>
@@ -91,7 +90,6 @@ jkjkhjkhjkhkjhjk
 - The Rationalist's Guide to the Galaxy: Superintelligent AI and the Geeks Who Are Trying to Save Humanity's Future, Tom Chivers: <a href="https://www.goodreads.com/book/show/44154569">Goodreads</a><br>
 
 ***Philosophy & ethics***
-jkhjkjhkj
 - Utilitarianism: A Very Short Introduction, Katarzyna De Lazari-Radek & Peter Singer: <a href="https://www.goodreads.com/book/show/34749756-utilitarianism">Goodreads</a><br>
 - Etikprofessorn, Torbjörn Tännsjö: <a href="https://www.goodreads.com/book/show/42193691-etikprofessorn">Goodreads</a><br>
 - Vänsterdocenten, Torbjörn Tännsjö: <a href="https://www.goodreads.com/book/show/34761814-v-nsterdocenten">Goodreads</a><br>
