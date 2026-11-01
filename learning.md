@@ -72,7 +72,7 @@
 
 <b>Read (2018-2026; non-fiction)</b><br>
 
-**AI-related**
+***AI-related***
 - More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity, Adam Becker: <a href="https://www.goodreads.com/book/show/212987932-more-everything-forever?ref=re_book_title">Goodreads</a><br>
 - These Strange New Minds: How AI Learned to Talk and What It Means, Christopher Summerfield: <a href="https://www.goodreads.com/book/show/208999883-these-strange-new-minds#CommunityReviews">Goodreads</a><br>
 - The Precipice, Existential Risk and the Future of Humanity, Toby Ord: <a href="https://www.goodreads.com/sv/book/show/50485582-the-precipice">Goodreads</a>; <a href="https://www.tobyord.com/writing/the-precipice-revisited">Official Book Site, with updates and resources</a><br>
@@ -89,7 +89,7 @@
 - Superintelligence: Paths, Dangers, Strategies, Nick Bostrom: <a href="https://www.goodreads.com/book/show/20527133-superintelligence?from_search=true&from_srp=true&qid=9ESlhnWs2T&rank=1">Goodreads</a><br>
 - The Rationalist's Guide to the Galaxy: Superintelligent AI and the Geeks Who Are Trying to Save Humanity's Future, Tom Chivers: <a href="https://www.goodreads.com/book/show/44154569">Goodreads</a><br>
 
-**Philosophy & ethics**
+***Philosophy & ethics***
 - Utilitarianism: A Very Short Introduction, Katarzyna De Lazari-Radek & Peter Singer: <a href="https://www.goodreads.com/book/show/34749756-utilitarianism">Goodreads</a><br>
 - Etikprofessorn, Torbjörn Tännsjö: <a href="https://www.goodreads.com/book/show/42193691-etikprofessorn">Goodreads</a><br>
 - Vänsterdocenten, Torbjörn Tännsjö: <a href="https://www.goodreads.com/book/show/34761814-v-nsterdocenten">Goodreads</a><br>
@@ -97,7 +97,7 @@
 - Understanding Ethics: An Introduction to Moral Theory, Torbjörn Tännsjö: <a href="https://www.goodreads.com/book/show/7239262-understanding-ethics">Goodreads</a><br>
 - The Right to Sex: Feminism in the Twenty-First Century, Amia Srinivasan: <a href="https://www.goodreads.com/book/show/56347680">Goodreads</a><br>
 
-**Psychology & related sciences**
+***Psychology & related sciences***
 - The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning">Goodreads</a><br>
 - Get Off Your Cushion: Weaving Meditation into the Fabric of Life, Li-Anne Tang: <a href="https://www.goodreads.com/book/show/198971532-get-off-your-cushion">Goodreads</a><br>
 - Everything Is Predictable: How Bayesian Statistics Explain Our World, Tom Chivers: <a href="https://www.goodreads.com/book/show/199798096">Goodreads</a><br>
@@ -106,7 +106,7 @@
 - Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition, Steven C. Hayes, Dermot Barnes-Holmes & Bryan Roche: <a href="https://www.goodreads.com/book/show/1090917">Goodreads</a><br>
 - Process-Based CBT: The Science and Core Clinical Competencies of Cognitive Behavioral Therapy, Steven C. Hayes & Stefan G. Hofmann: <a href="https://www.goodreads.com/book/show/27214330">Goodreads</a><br>
 
-**Society & politics**
+***Society & politics***
 - Konspirationsteorier: meningsskapande berättelser i historia och nutid, Andreas Önnerfors: <a href="https://www.goodreads.com/book/show/242407618-konspirationsteorier">Goodreads</a><br>
 - All in the Family: The Trumps and How We Got This Way, Fred C. Trump III: <a href="https://www.goodreads.com/book/show/213940624">Goodreads</a><br>
 - Conspiracy: The Greatest Plots, Collusions and Cover-Ups, Charlotte Greig & Mike Rothschild: <a href="https://www.goodreads.com/book/show/51134648">Goodreads</a><br>
@@ -118,20 +118,20 @@
 - Too Much and Never Enough: How My Family Created the World's Most Dangerous Man, Mary L. Trump: <a href="https://www.goodreads.com/book/show/54114950">Goodreads</a><br>
 - Fire and Fury: Inside the Trump White House, Michael Wolff: <a href="https://www.goodreads.com/book/show/36595101">Goodreads</a><br>
 
-**Personal, work, health & money**
+***Personal, work, health & money***
 - Getting Things Done: The Art of Stress-Free Productivity, David Allen: <a href="https://www.goodreads.com/book/show/1633">Goodreads</a><br>
 - En liten bok om ledarskap, Stefan Söderfjäll: <a href="https://www.goodreads.com/book/show/42613279">Goodreads</a><br>
 - En liten bok om ledningsgrupper, Stefan Söderfjäll: <a href="https://www.goodreads.com/book/show/50633939">Goodreads</a><br>
 - Vem bestämmer över din tid?, Petra Brask: <a href="https://www.goodreads.com/book/show/38475551">Goodreads</a><br>
 - Just Keep Buying: Proven Ways to Save Money and Build Your Wealth, Nick Maggiulli: <a href="https://www.goodreads.com/book/show/59046778">Goodreads</a><br>
 
-**Other**
+***Other***
 - När jag inte hade nåt, Ison Glasgow: <a href="https://www.goodreads.com/book/show/23282969">Goodreads</a><br>
 - Inför Gud och kniven är vi alla lika, Henrik Bergendahl: <a href="https://www.goodreads.com/book/show/56784551">Goodreads</a><br>
 
 <b>Read (2018-2026; fiction)</b><br>
 
-**Science fiction & fantasy**
+***Science fiction & fantasy***
 - Red Heart, Max Harms: <a href="https://www.goodreads.com/book/show/239885125-red-heart">Goodreads</a><br>
 - The Children of the Sky (Zones of Thought, #3), Vernor Vinge: <a href="https://www.goodreads.com/book/show/10170545">Goodreads</a><br>
 - System Collapse (The Murderbot Diaries, #7), Martha Wells: <a href="https://www.goodreads.com/book/show/65211701">Goodreads</a><br>
@@ -149,13 +149,13 @@
 - The Fifth Season (The Broken Earth, #1), N.K. Jemisin: <a href="https://www.goodreads.com/book/show/19161852">Goodreads</a><br>
 - Provenance (Imperial Radch), Ann Leckie: <a href="https://www.goodreads.com/book/show/25353286">Goodreads</a><br>
 
-**Crime & thrillers**
+***Crime & thrillers***
 - Kriget (Klanenserien, #2), Pascal Engman: <a href="https://www.goodreads.com/book/show/247661876">Goodreads</a><br>
 - Klanen (Klanenserien, #1), Pascal Engman: <a href="https://www.goodreads.com/book/show/235764852">Goodreads</a><br>
 - När ingen lyssnar, Diamant Salihu: <a href="https://www.goodreads.com/book/show/123169859">Goodreads</a><br>
 - Tills alla dör, Diamant Salihu: <a href="https://www.goodreads.com/book/show/57761906">Goodreads</a><br>
 
-**Literary fiction**
+***Literary fiction***
 - The Disappearers, Marlon James: <a href="https://www.goodreads.com/book/show/247031766-the-disappearers">Goodreads</a><br>
 - Sink: A Memoir, Joseph Earl Thomas: <a href="https://www.goodreads.com/book/show/61237136">Goodreads</a><br>
 - Tomorrow, and Tomorrow, and Tomorrow, Gabrielle Zevin: <a href="https://www.goodreads.com/book/show/58784475">Goodreads</a><br>
