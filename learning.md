@@ -90,7 +90,8 @@ jkjkhjkhjkhkjhjk
 - Superintelligence: Paths, Dangers, Strategies, Nick Bostrom: <a href="https://www.goodreads.com/book/show/20527133-superintelligence?from_search=true&from_srp=true&qid=9ESlhnWs2T&rank=1">Goodreads</a><br>
 - The Rationalist's Guide to the Galaxy: Superintelligent AI and the Geeks Who Are Trying to Save Humanity's Future, Tom Chivers: <a href="https://www.goodreads.com/book/show/44154569">Goodreads</a><br>
 
-***Philosophy & ethics***<br>
+***Philosophy & ethics***
+jkhjkjhkj
 - Utilitarianism: A Very Short Introduction, Katarzyna De Lazari-Radek & Peter Singer: <a href="https://www.goodreads.com/book/show/34749756-utilitarianism">Goodreads</a><br>
 - Etikprofessorn, Torbjörn Tännsjö: <a href="https://www.goodreads.com/book/show/42193691-etikprofessorn">Goodreads</a><br>
 - Vänsterdocenten, Torbjörn Tännsjö: <a href="https://www.goodreads.com/book/show/34761814-v-nsterdocenten">Goodreads</a><br>
