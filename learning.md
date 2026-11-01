@@ -106,6 +106,8 @@
 - Process-Based CBT: The Science and Core Clinical Competencies of Cognitive Behavioral Therapy, Steven C. Hayes & Stefan G. Hofmann: <a href="https://www.goodreads.com/book/show/27214330">Goodreads</a><br>
 
 ***Society & politics***
+- När ingen lyssnar, Diamant Salihu: <a href="https://www.goodreads.com/book/show/123169859">Goodreads</a><br>
+- Tills alla dör, Diamant Salihu: <a href="https://www.goodreads.com/book/show/57761906">Goodreads</a><br>
 - Konspirationsteorier: meningsskapande berättelser i historia och nutid, Andreas Önnerfors: <a href="https://www.goodreads.com/book/show/242407618-konspirationsteorier">Goodreads</a><br>
 - All in the Family: The Trumps and How We Got This Way, Fred C. Trump III: <a href="https://www.goodreads.com/book/show/213940624">Goodreads</a><br>
 - Conspiracy: The Greatest Plots, Collusions and Cover-Ups, Charlotte Greig & Mike Rothschild: <a href="https://www.goodreads.com/book/show/51134648">Goodreads</a><br>
@@ -151,8 +153,6 @@
 ***Crime & thrillers***
 - Kriget (Klanenserien, #2), Pascal Engman: <a href="https://www.goodreads.com/book/show/247661876">Goodreads</a><br>
 - Klanen (Klanenserien, #1), Pascal Engman: <a href="https://www.goodreads.com/book/show/235764852">Goodreads</a><br>
-- När ingen lyssnar, Diamant Salihu: <a href="https://www.goodreads.com/book/show/123169859">Goodreads</a><br>
-- Tills alla dör, Diamant Salihu: <a href="https://www.goodreads.com/book/show/57761906">Goodreads</a><br>
 
 ***Literary fiction***
 - The Disappearers, Marlon James: <a href="https://www.goodreads.com/book/show/247031766-the-disappearers">Goodreads</a><br>
