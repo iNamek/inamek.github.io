@@ -82,6 +82,7 @@ Under Construction! A developing collection of links to resources I find useful 
 <a href="https://nickbostrom.com/">Nick Bostrom</a><br>
 <a href="https://consc.net/">David Chalmers</a><br>
 <a href="https://paulfchristiano.com/">Paul Christiano</a><br>
+<a href="https://www.quinnslobodian.com/">Quinn Slobodian</a><br>
 
 ## Forums, Communities & Organisations {#forums}
 <a href="https://www.alignmentforum.org/">Aligment Forum</a><br>
